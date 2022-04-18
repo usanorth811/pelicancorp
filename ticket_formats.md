@@ -15,4 +15,4 @@ The following ticket formats are available for delivery. Use this guide to deter
 | Option 3     | Intended for use with ticket management system and/or GIS	| Contains All ticket data   |Ticket Number	|.GIF - .GML - .XML|Plain Text E-Mail|
 
 ### Download Examples
-<a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</button> <a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</button> <a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</button>
+<a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</a>
