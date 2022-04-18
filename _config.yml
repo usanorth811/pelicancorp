@@ -4,3 +4,5 @@ theme: jekyll-theme-minimal
 
 title: Underground Service Alert
 description: Underground Service Alert/PelicanCorp cutover documentation
+
+color_scheme: usan
