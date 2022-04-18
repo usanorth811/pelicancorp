@@ -6,7 +6,8 @@ nav_order: 2
 ---
 
 ## Pelican OneCallAccess System Ticket Formats
-The following ticket formats are available for delivery. Use this guide to determine which formats best suit your needs.
+Use the matrix below to understand which test ticket format is best for your organization and the system you utilize. Select the appropriate test ticket file to test with your TMS or in-house system. If you manually print tickets you can also download the PDF format to see the new printable version of the ticket.
+
 
 | Option       | Who is it for?    | E-Mail Subject/Body | E-Mail Subject | Which Attachments are included? | Format |
 |:-------------|:------------------|:------|
