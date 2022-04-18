@@ -2,7 +2,7 @@
 layout: default
 title: Ticket Formats
 parent: Test Tickets
-nav_order: 1
+nav_order: 2
 ---
 
 ## Pelican OneCallAccess System Ticket Formats
