@@ -11,7 +11,8 @@ nav_order: 2
 The full PDF Ticket example can be found <a href="https://usanorth811.org/images/pdfs/Output_Member_CA_v8_20220328-1.pdf">here</a>
 
 ### XML
-`<?xml version="1.0" encoding="utf-8"?>
+```xml
+<?xml version="1.0" encoding="utf-8"?>
 <onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usan.xsd">
   <onecall:ReferralDetails>
     <onecall:MessageVersionNumber>1.0.10</onecall:MessageVersionNumber>
@@ -80,4 +81,5 @@ The full PDF Ticket example can be found <a href="https://usanorth811.org/images
     <onecall:Longitude>-119.681675</onecall:Longitude>
     <onecall:ExcavatorRemarks>test ticket</onecall:ExcavatorRemarks>
   </onecall:LocationDetails>
-</onecall:OneCallReferral>`
+</onecall:OneCallReferral>
+```
