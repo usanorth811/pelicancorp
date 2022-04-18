@@ -1,4 +1,4 @@
-## PelicanCorp Cutover Information
+## PelicanCorp Cutover
 
 <style> h2 { color: #DA8A26 !important; }</style>
 
