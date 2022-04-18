@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Option 2
+title: Option 3
 parent: Ticket Delivery Options
 nav_order: 3
 ---
 
-## Option 2
+## Option 3
