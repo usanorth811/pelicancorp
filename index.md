@@ -8,7 +8,7 @@ nav_order: 1
 
 <style> h2 { color: #DA8A26 !important; }</style>
 
-We are excited to announce that the cutover to Pelican System (our new 811 ticket system for Members & Excavators) will take place on July 1, 2022. During this time we ask that you prepare for the transition by reviewing the information below to assure that you will be prepared for the cutover.
+We are excited to announce that the cutover to Pelican System (our new 811 ticket system for Members & Excavators) will take place on July 1, 2022. During this time we ask that you prepare for the transition by reviewing the on this page to assure that you will be prepared for the cutover.
 
 ### Markdown
 
