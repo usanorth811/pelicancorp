@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## PelicanCorp Cutover Information
 
-You can use the [editor on GitHub](https://github.com/usanorth811/pelicancorp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are excited to announce that the cutover to Pelican System (our new 811 ticket system for Members & Excavators) will take place on July 1, 2022. During this time we ask that you prepare for the transition by reviewing the information below to assure that you will be prepared for the cutover.
 
 ### Markdown
 
