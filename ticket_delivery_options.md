@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Ticket Formats
-parent: Test Tickets
+title: Ticket Delivery Options
 nav_order: 2
 ---
 
