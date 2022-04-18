@@ -10,11 +10,14 @@ h2 {
 }
 .nav-list-item .active {
   color: white;
-  .nav-list-item a {
-    color: #DA8A26;
-  }
-  .nav-list-item .active {
-    color: white;
+  .nav-list {
+    .nav-list-item a {
+      color: #DA8A26;
+    }
+
+    .nav-list-item .active {
+      color: white;
+    }
   }
 }
 
