@@ -1,15 +1,11 @@
 ---
 layout: default
-title: Ticket Examples
+title: XML
+parent: Ticket Examples
 nav_order: 3
 ---
 
-## Test Ticket Examples
-
-### PDF
-The full PDF Ticket example can be found <a href="https://usanorth811.org/images/pdfs/Output_Member_CA_v8_20220328-1.pdf">here</a>
-
-### XML
+## XML
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usan.xsd">

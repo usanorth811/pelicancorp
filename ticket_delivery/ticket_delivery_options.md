@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ticket Delivery Options
+has_children: true
 nav_order: 2
 ---
 
