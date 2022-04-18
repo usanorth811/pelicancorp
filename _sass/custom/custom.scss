@@ -11,10 +11,25 @@ h2 {
 .nav-list-item .active {
   color: white;
 }
+.nav-list-item .active a {
+  color: #DA8A26;
+}
+
 
 .side-bar {
   background-color: #4D5450;
 }
 .site-logo {
   filter: invert(1);
+}
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+  background-image: linear-gradient(-90deg, #292B2D 0%, rgba(77,84,80,0.8) 80%, rgba(41,43,45, 100%);
+}
+
+.nav-list-expander {
+  color: #DA8A26 !important;
+}
+
+.active .nav-list-expander {
+  color: white !important;
 }
