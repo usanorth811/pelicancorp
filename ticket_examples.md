@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Ticket Examples
-parent: Test Tickets
-nav_order: 2
+nav_order: 3
 ---
 
 ## Test Ticket Examples
