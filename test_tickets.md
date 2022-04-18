@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Test Tickets
-nav_order: 2
+title: Ticket Examples
+nav_order: 3
 has_children: true
 ---
 
-## Test Tickets
+## Ticket Examples
