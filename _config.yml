@@ -2,4 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 
 theme: jekyll-theme-minimal
 
-logo: "logo.png"
+title: Underground Service Alert
+description: Underground Service Alert/PelicanCorp cutover documentation
