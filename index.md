@@ -1,3 +1,9 @@
+---
+layout: default
+title: PelicanCorp Cutover
+nav_order: 1
+---
+
 ## PelicanCorp Cutover
 
 <style> h2 { color: #DA8A26 !important; }</style>
