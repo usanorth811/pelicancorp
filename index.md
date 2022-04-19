@@ -16,12 +16,12 @@ Our cutover to the new Pelican System will take place on September 1, 2022. Use 
 New
 {: .label }
 - [Ticket delivery options and examples](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
-- Webhook documentation  
-- Ticket format examples
-- Positive response API documentation
-- Data structure guide
-- Excavator output example
-- Norfield and PelicanCorp terminology comparison
+- [Webhook documentation](/pelicancorp/ticket_delivery/webhook.html)  
+- [Ticket format examples](/pelicancorp/ticket_examples/ticket_examples.html)
+- [Positive response API documentation](/pelicancorp/ticket_examples/ticket_examples.html)
+- [Data structure guide](/pelicancorp/data_structure_guide.html)
+- [Excavator output example](/pelicancorp/excavator_output.html)
+- [Norfield and PelicanCorp terminology comparison](/pelicancorp/additional_documentation.html#norfield-current-system-vs-pelican-new-system-terminology)
 
 
 <span style="display:none">Underground Service Alert of Northern California and Nevada has partnered with PelicanCorp to create an industry leading notification service, enabling us to provide an intuitive and streamlined process while more efficiently handling rising ticket volumes. Our new partnership with PelicanCorp significantly improves our ability to implement leading technologies that will enhance stakeholder education and reduce damages in California and Nevada. Hosted by PelicanCorp in a high-availability cloud environment, this new solution manages all notification tickets from any location, at any time, by leveraging advanced web and mobile-based technologies.</span>
