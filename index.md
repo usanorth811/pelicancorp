@@ -6,38 +6,21 @@ nav_order: 1
 
 ## PelicanCorp Cutover
 
-<style> h2 { color: #DA8A26 !important; }</style>
-
 We are excited to announce that the cutover to Pelican System (our new 811 ticket system for Members & Excavators) will take place on July 1, 2022. During this time we ask that you prepare for the transition by reviewing the on this page to assure that you will be prepared for the cutover.
 
-### Markdown
+### What is this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Underground Service Alert has partnered with PelicanCorp to create an industry leading notification service, enabling us to provide an intuitive and streamlined process while more efficiently handling rising ticket volumes. Our new partnership with PelicanCorp significantly improves our ability to implement leading technologies that will enhance stakeholder education and reduce damages in California and Nevada.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Hosted by PelicanCorp in a high-availability cloud environment, this new solution manages all notification tickets from any location, at any time, by leveraging advanced web and mobile-based technologies.
 
-- Bulleted
-- List
+### How to use this site
+Although we encourage everyone to review all the information available to them, we understand that certain things must be prioritized. Therefore, using the menu on the left (top right if on mobile), you can jump straight to any topic you need. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usanorth811/pelicancorp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What if I'm not a Member?
+Although most of the information on this site will not pertain to you, we encourage you to jump straight to the "Excavator Output" and "Additional Documentation" pages where you will find information about the new ticket output and direct field comparisons.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Not finding what you need, or having trouble with this page? Contact us at <a href="mailto:marketingeducation@usanorth811.org?bcc=caleb.woods@usanorth811.org&subject=PelicanCorp%20Documentation%20Help">marketingeducation@usanorth811.org</a>
