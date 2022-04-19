@@ -3,8 +3,6 @@ layout: default
 title: Data Structure Guide
 nav_order: 5
 ---
-Coming soon
-{: .label .label-yellow }
 
 | Email TXT Field Name | XML Field Name | Email TXT/XML Example |
 |:---------------------|:---------------|:----------------------|
