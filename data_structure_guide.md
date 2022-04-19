@@ -38,7 +38,7 @@ nav_order: 5
 |ANTICIPATED DEPTH=|AnticipatedDepth|48 to 84 inches|
 |RESPONSE REQUIRED=|ResponseRequired|TRUE|
 |PROJECT OWNER=|ProjectOwner|School/University|
-|PERMIT=|Permit||
+|PERMIT=|Permit|A1234|
 |JOB NO/NAME=|JobNoName|1234|
 |STATION LIST=|StationList|"CNSA, CCOWTR, COMNCA, PACBEL"|
 |CALLER DETAILS  |CustomerDetails|
