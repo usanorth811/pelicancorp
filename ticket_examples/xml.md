@@ -6,6 +6,8 @@ nav_order: 3
 ---
 
 ## XML
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. It provides a simple standard for transmitting ticket data to be consumed by most ticket-management systems.
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usan.xsd">
