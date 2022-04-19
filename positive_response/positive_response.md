@@ -7,6 +7,7 @@ nav_order: 4
 
 ## Positive Response API Data Structure
 The Positive Response API documentation is available. 
+
 <a href="https://usanorth811.org/images/PCAA-POSR-API-Member-Functions-v1.10.pdf" class="btn">PDF Documentation</a>
 
 ### Swagger Documentation
