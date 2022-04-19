@@ -14,12 +14,12 @@ Use the matrix below to understand which test ticket format is best for your org
 | Option 1     | Members without a ticket management system who wish to view or print their tickets in an easily readable format. |  Ticket Number,  General Information  |PDF | E-Mail |
 | Option 2     | Can be printed/read, but is intendedfor members who will be parsing data into a ticket management system and/or GIS.	   |  Ticket Number,  Contains All ticket data  |GIF, GML| E-Mail|
 | Option 3     | Intended for use with ticket management system and/or GIS	|  Ticket Number,  Contains All ticket data  	|GIF, GML, XML| E-Mail|
-| Option 4     | Intended for use with ticket management system and/or GIS  | N/A  | JSON | Webhook|
+| Webhook      | Intended for use with ticket management system and/or GIS  | N/A  | JSON | Webhook|
 
 ### Examples
 <a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</a>
 
-Visit the webhook section for more information on option 4.
+Visit the webhook section for more information on how to use it.
 
 
 ## Glossary of Formats
