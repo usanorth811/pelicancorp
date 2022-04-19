@@ -38,19 +38,19 @@ The payload is comprised of the message transmitted by OneCallAccess to the memb
 
 ```json
 {
-    "timestamp":"2921-09-14T07:44:10z,
+    "timestamp": "2921-09-14T07:44:10z,
     "webhookNotificationId": 1,
-    "messageVersion":"1.0.0"
+    "messageVersion": "1.0.0"
     "message": {
         "utilityId": 1,
-        "utilityName":"Michigan State Authority",
-        "stationCode":"MSA",
-        "ticketNumber":"2021091401234-001"
-        "sequenceNumber":12,
-        "requestDate":"2021-09-14T07:44:102"
-        "XMLBase64" :"xxxxxxxxxxxxxxxxxxxxx",
-        "GMLBase64" :"xxxxxxxxxxxxxxxxxxxxx",
-        "GIFBase64" :"xxxxxxxxxxxxxxxxxxxxx"
+        "utilityName": "Michigan State Authority",
+        "stationCode": "MSA",
+        "ticketNumber": "2021091401234-001"
+        "sequenceNumber": 12,
+        "requestDate": "2021-09-14T07:44:102"
+        "XMLBase64" : "xxxxxxxxxxxxxxxxxxxxx",
+        "GMLBase64" : "xxxxxxxxxxxxxxxxxxxxx",
+        "GIFBase64" : "xxxxxxxxxxxxxxxxxxxxx"
      }
 }
 ```
