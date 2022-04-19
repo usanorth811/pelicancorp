@@ -13,7 +13,8 @@ Our cutover to the new Pelican System will take place on September 1, 2022. Use 
 ---
 ## April 19 Update
 
-The following documentation has been added:
+New
+{: .label }
 - Ticket delivery options and examples
 - Webhook documentation  
 - Ticket format examples
