@@ -6,4 +6,4 @@ nav_order: 3
 ---
 
 ## GIF
-![](../assets/images/small-image.jpg)
+![](../assets/images/2022041200002-000.GIF)
