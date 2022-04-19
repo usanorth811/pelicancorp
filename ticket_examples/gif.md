@@ -6,5 +6,4 @@ nav_order: 3
 ---
 
 ## GIF
-Coming soon
-{: .label .label-yellow }
+![](../assets/images/small-image.jpg)
