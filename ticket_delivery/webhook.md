@@ -38,7 +38,7 @@ The payload is comprised of the message transmitted by OneCallAccess to the memb
 
 ```json
 {
-    "timestamp":"2921-09-14T07:44:10z
+    "timestamp":"2921-09-14T07:44:10z,
     "webhookNotificationId": 1,
     "messageVersion":"1.0.0"
     "message": {
