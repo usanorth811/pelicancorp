@@ -23,6 +23,9 @@ h2 {
     }
   }
 }
+.menu-button svg {
+  color: white !important;
+}
 
 .side-bar {
   background-color: #4D5450;
@@ -40,4 +43,7 @@ h2 {
 
 .active .nav-list-expander {
   color: white !important;
+}
+.site-title:hover {
+  background-image: none;
 }
