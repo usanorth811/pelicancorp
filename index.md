@@ -7,13 +7,14 @@ nav_order: 1
 # PelicanCorp Cutover
 {: .fs-9 }
 
-Underground Service Alert of Northern California and Nevada has partnered with PelicanCorp to create an industry leading notification service, enabling us to provide an intuitive and streamlined process while more efficiently handling rising ticket volumes. Our new partnership with PelicanCorp significantly improves our ability to implement leading technologies that will enhance stakeholder education and reduce damages in California and Nevada. 
+Updated April 19
 {: .fs-6 .fw-300 }
+
+
+Underground Service Alert of Northern California and Nevada has partnered with PelicanCorp to create an industry leading notification service, enabling us to provide an intuitive and streamlined process while more efficiently handling rising ticket volumes. Our new partnership with PelicanCorp significantly improves our ability to implement leading technologies that will enhance stakeholder education and reduce damages in California and Nevada. 
 
 Hosted by PelicanCorp in a high-availability cloud environment, this new solution manages all notification tickets from any location, at any time, by leveraging advanced web and mobile-based technologies.
-{: .fs-6 .fw-300 }
 
-##
 ### What is this?
 
 Our cutover to the new Pelican System will take place on September 1, 2022. During this time we ask that you prepare for the transition by reviewing the information on this site to assure that you are fully prepared for the cutover.
