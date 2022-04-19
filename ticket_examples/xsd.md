@@ -6,5 +6,102 @@ nav_order: 3
 ---
 
 ## XSD
-Coming soon
-{: .label .label-yellow }
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	attributeFormDefault="unqualified"
+	elementFormDefault="qualified"
+	targetNamespace="http://www.pelicancorp.com/onecall">
+	<xs:element name="OneCallReferral">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ReferralDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MessageVersionNumber" type="xs:string" />
+							<xs:element name="From" type="xs:string" />
+							<xs:element name="TicketMedium" type="xs:string" />
+							<xs:element name="UtilityID" type="xs:integer" />
+							<xs:element name="StationCode" type="xs:string" />
+							<xs:element name="UtilityName" type="xs:string" />
+							<xs:element name="To" type="xs:string" nillable="true" />
+							<xs:element name="JobNumber" type="xs:integer" />
+							<xs:element name="TicketNumber" type="xs:string" />
+							<xs:element name="TicketRevisionNumber" type="xs:string"/>
+							<xs:element name="PreviousTicketNumber" type="xs:string" nillable="true" />
+							<xs:element name="PreviousTicketRevNumber" type="xs:string" nillable="true" />
+							<xs:element name="SequenceNumber" type="xs:unsignedInt"/>
+							<xs:element name="TransmissionID" type="xs:unsignedLong"/>
+							<xs:element name="SubmittedDate" type="xs:dateTime" />
+							<xs:element name="WorkBeginDate" type="xs:dateTime" />
+							<xs:element name="LegalStartDate" type="xs:dateTime" />
+							<xs:element name="TicketExpirationDate" type="xs:dateTime" />
+							<xs:element name="WorkDuration" type="xs:string" />
+							<xs:element name="IsEmergency" type="xs:boolean" />
+							<xs:element name="TicketStatus" type="xs:string" />
+							<xs:element name="TicketType" type="xs:string" />
+							<xs:element name="WorkType" type="xs:string" />
+							<xs:element name="WorkActivity" type="xs:string" />							
+							<xs:element name="DelineatedMethod" type="xs:string" />
+							<xs:element name="ExcavationSize" type="xs:string" />							
+							<xs:element name="ExcavationMethod" type="xs:string" />							
+							<xs:element name="VacuumExcavation" type="xs:boolean" />							
+							<xs:element name="AnticipatedDepth" type="xs:string" />							
+							<xs:element name="ResponseRequired" type="xs:boolean" />
+							<xs:element name="ProjectOwner" type="xs:string" />
+							<xs:element name="Permit" type="xs:string" />
+							<xs:element name="JobNoName" type="xs:string" nillable="true" />
+							<xs:element name="StationList">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element minOccurs="0" maxOccurs="unbounded" name="StationCode" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CustomerDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ExcavatorID " type="xs:integer" />
+							<xs:element name="Name" type="xs:string" />
+							<xs:element name="Company" type="xs:string" />
+							<xs:element name="StreetAddress" type="xs:string" />
+							<xs:element name="CityTownPlace" type="xs:string" />
+							<xs:element name="State" type="xs:string" />
+							<xs:element name="Zipcode" type="xs:string" />
+							<xs:element name="UserType" type="xs:string" />
+							<xs:element name="UserIndustry" type="xs:string" />
+							<xs:element name="Phone" type="xs:string" />
+							<xs:element name="Mobile" type="xs:string" nillable="true" />
+							<xs:element name="Email" type="xs:string" nillable="true" />
+							<xs:element name="Language" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="LocationDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="AddressLocation" type="xs:string" />
+							<xs:element name="CityTownPlace" type="xs:string" />
+							<xs:element name="County" type="xs:string" />
+							<xs:element name="State" type="xs:string" nillable="true" />
+							<xs:element name="NearbyCrossStreet" type="xs:string" />
+							<xs:element name="StreetSidewalk" type="xs:boolean" />
+							<xs:element name="SubdivisionLot" type="xs:string" nillable="true" />
+							<xs:element name="OnsiteContactName" type="xs:string" nillable="true" />
+							<xs:element name="OnsiteContactPhone" type="xs:string" nillable="true" />
+							<xs:element name="Latitude" type="xs:decimal" nillable="true" />
+							<xs:element name="Longitude" type="xs:decimal" nillable="true" />
+							<xs:element name="ExcavatorRemarks" type="xs:string" nillable="true" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+```
