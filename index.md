@@ -11,7 +11,22 @@ Our cutover to the new Pelican System will take place on September 1, 2022. Use 
 {: .fs-6 .fw-300 }
 
 ---
-## April 19 Update
+
+## April 20
+
+New
+{: .label }
+- [Legacy ticket format has been added to the ticket examples](/pelicancorp/ticket_examples/legacy)
+
+Updated
+{: .label .label-yellow }
+- [Excavator ticket example has been moved to the Additional Documentation page](/pelicancorp/additional_documentation.html)
+
+Removed
+{: .label .label-red }
+- The stand alone excavator example page has been removed (consolodated under additional documentation)
+
+## April 19
 
 New
 {: .label }
