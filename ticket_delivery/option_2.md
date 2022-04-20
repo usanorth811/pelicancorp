@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Option 2
+title: Email Option 2
 parent: Ticket Delivery Options
 nav_order: 3
 ---
@@ -10,7 +10,7 @@ Although it can be printed and read, it is intended for members who will be pars
 
 | Option       | Who is it for?    | E-Mail Subject/Body | E-Mail Subject | Which Attachments are included? | Format |
 |:-------------|:------------------|:------|
-| Option 2     | Can be printed/read, but is intendedfor members who will be parsing data into a ticket management system and/or GIS.	   | Contains All ticket data  |Ticket Number|.GIF - .GML|Plain Text E-Mail|
+| Option 2     | Can be printed/read, but is intended for members who will be parsing data into a ticket management system and/or GIS.	   | Contains All ticket data  |Ticket Number|.GIF - .GML|Plain Text E-Mail|
 
 ### Example
 Here is an example ticket of option 2. The example is in a .msg format.
