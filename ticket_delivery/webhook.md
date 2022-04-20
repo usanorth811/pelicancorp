@@ -55,3 +55,52 @@ The payload is comprised of the message transmitted by OneCallAccess to the memb
 }
 ```
 
+## Signature Verification 
+The signature key that is provided allows the receiver to confirm that the Notification came from OneCallAccess and that the body of the message has not been altered since OneCallAccess issued the Notification.
+
+The signing key is used to create a base64-encoded HMAC SHA-256 hash signature with each payload.
+
+Each request includes an HTTP header:
+
+```
+X-OneCall-Webhook-Signature: sha256=EXyLcM67FBwFXkyFu+qzy7UwEc5ytPCQK8UBFJJ/UsM=
+```
+
+The code sample provided below (C#) can be used to re-generate the hash (variable part of the signature) by passing the request payload (request body) and your secret key.
+
+If the computed hash is different from the header, there will be a problem because the signature does not match.
+
+```c#
+/// <summary>
+/// Create a Base64 hash in HMAC SHA256
+/// </summary>
+/// <param name="message">Message to hash</param>
+/// <param name="secret">Secret key</param>
+/// <remarks>
+/// Example :
+///    var hash = CreateBase64HashHMACSHA256("BodyMessage", "ThisIsMySecret");
+///    will return: EXyLcM67FBwFXkyFu+qzy7UwEc5ytPCQK8UBFJJ/UsM=
+/// </remarks>
+/// <returns>base64 hash</returns>
+private string CreateBase64HashHMACSHA256(string message, string secret)
+{
+   secret = secret ?? "";
+   var encoding = new System.Text.ASCIIEncoding();
+   byte[] keyByte = encoding.GetBytes(secret);
+   byte[] messageBytes = encoding.GetBytes(message);
+   using (var hmacsha256 = new HMACSHA256(keyByte))
+   {
+      byte[] hashmessage = hmacsha256.ComputeHash(messageBytes);
+      return Convert.ToBase64String(hashmessage);
+   }
+}
+```
+
+For any other type of language, we would recommend [this external resource](https://www.jokecamp.com/blog/examples-of-creating-base64-hashes-using-hmac-sha256-in-different-languages/). It may provide you with answers to get the same hash result. Please note that we are neither the author nor the owner of this resource and that the information contained herein is subject to change at any time.
+
+## HTTP Response 
+The receiver is expected to return an HTTP response code of 2XX within 3 seconds of the Notification being sent.
+
+If the HTTP response code is not 2XX, or if the response is not received within 3 seconds, OneCallAccess will mark the Notification for retry.
+
+OneCallAccess will keep retrying the request until a successful response is received or it has failed 10 times. The failed Notifications will appear in the OneCallAccess failed transmission queue which can be accessed through the Damage Prevention Portal.

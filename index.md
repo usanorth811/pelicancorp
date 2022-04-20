@@ -21,6 +21,7 @@ New
 
 Updated
 {: .label .label-yellow }
+- [Webhook documentation has been expanded](/pelicancorp/ticket_delivery/webhook.html)
 - [Webhook option has been added to the ticket delivery matrix](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
 - [Definitions in the ticket example glossary have been expanded.](/pelicancorp/ticket_examples/ticket_examples.html)
 - [Excavator ticket example has been moved to the Additional Documentation page](/pelicancorp/additional_documentation.html)
@@ -34,6 +35,8 @@ Removed
 
 New
 {: .label }
+
+The following items have been added
 - [Ticket delivery options and examples](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
 - [Webhook documentation](/pelicancorp/ticket_delivery/webhook.html)  
 - [Ticket format examples](/pelicancorp/ticket_examples/ticket_examples.html)
