@@ -53,7 +53,7 @@ The following items have been added
 ### How to use this site
 Although we encourage everyone to review all the information available to them, we understand that certain things must be prioritized. Therefore, using the menu on the left (top right if on mobile), you can jump straight to any topic you need. 
 
-We strongly suggest familiarizing yourself with some of the available ticket delivery options as well as the different formats that can be included. Examples of each format are available to you for testing, but some of them may be subject to change. Check back here regularly to ensure that you have the most up to date copy of each example ticket.
+We strongly suggest familiarizing yourself with some of the available ticket delivery options as well as the different formats that can be included. Examples of each format are available to you for testing but some of them may be subject to change. Check back here regularly to ensure that you have the most up to date copy of each example ticket.
 
 ### What if I'm not a Utility Member?
 Most of the information on this site will not pertain to you, however we still encourage you to familiarize yourself with some of the information found under the "Additional Documentation" page where you will find information about the new ticket output and direct field comparisons to the current system.
