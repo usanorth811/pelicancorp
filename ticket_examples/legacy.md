@@ -7,7 +7,7 @@ nav_order: 3
 ## Legacy Format
 This is a replica of the format previously used in Newtin. It remains as an option for those that would like to continue recieving their tickets in this truncated format.
 
-<a class="btn" href="/assets/DigAlert - Legacy Format .pdf" >Download Legacy Format</a>
+<a class="btn" href="pelicancorp/assets/DigAlert - Legacy Format .pdf" >Download Legacy Format</a>
 
 ```
 CNSA 25354 USAN 04/19/22 2022041900001-000 NEW NORM POLY LREQ

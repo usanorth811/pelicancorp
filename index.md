@@ -14,6 +14,8 @@ Our cutover to the new Pelican System will take place on September 1, 2022. Use 
 
 ## April 20
 
+&nbsp; 
+
 New
 {: .label }
 - [Legacy ticket format has been added to the ticket examples](/pelicancorp/ticket_examples/legacy)
@@ -27,6 +29,8 @@ Removed
 - The stand alone excavator example page has been removed (consolodated under additional documentation)
 
 ## April 19
+
+&nbsp;
 
 New
 {: .label }
@@ -45,6 +49,8 @@ New
 
 ### How to use this site
 Although we encourage everyone to review all the information available to them, we understand that certain things must be prioritized. Therefore, using the menu on the left (top right if on mobile), you can jump straight to any topic you need. 
+
+We strongly suggest familiarizing yourself with some of the available ticket delivery options as well as the different formats that can be included. 
 
 ### What if I'm not a Utility Member?
 Most of the information on this site will not pertain to you, however we still encourage you to familiarize yourself with some of the information presented. The most relevant of which are located in the "Excavator Output" and "Additional Documentation" pages where you will find information about the new ticket output and direct field comparisons to the current system.
