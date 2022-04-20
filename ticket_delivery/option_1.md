@@ -15,4 +15,4 @@ Best suited for Members without a ticket management system who wish to view or p
 ### Example
 Here is an example ticket of option 1. The example is in a .msg format.
 
-<a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</a>
+<a href="assets/zip/Option1.zip" class="btn mr-4">Option 1</a>
