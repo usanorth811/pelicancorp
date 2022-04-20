@@ -15,4 +15,4 @@ Intended for use with ticket management system and/or GIS, the email body contai
 ### Example
 Here is an example ticket of option 3. The example is in a .msg format.
 
-<a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Option 3</a>

@@ -17,7 +17,7 @@ Use the matrix below to understand which test ticket format is best for your org
 | Webhook      | Intended for use with ticket management system and/or GIS  | N/A  | JSON | 
 
 ### Examples
-<a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Option 3</a>
 
 <a href='/pelicancorp/ticket_delivery/webhook.html' class='btn'>Webhook</a>
 

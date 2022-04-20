@@ -15,4 +15,4 @@ Although it can be printed and read, it is intended for members who will be pars
 ### Example
 Here is an example ticket of option 2. The example is in a .msg format.
 
-<a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Option 2</a>
