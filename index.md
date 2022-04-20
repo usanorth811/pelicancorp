@@ -56,7 +56,7 @@ Although we encourage everyone to review all the information available to them, 
 We strongly suggest familiarizing yourself with some of the available ticket delivery options as well as the different formats that can be included. 
 
 ### What if I'm not a Utility Member?
-Most of the information on this site will not pertain to you, however we still encourage you to familiarize yourself with some of the information presented. The most relevant of which are located in the "Excavator Output" and "Additional Documentation" pages where you will find information about the new ticket output and direct field comparisons to the current system.
+Most of the information on this site will not pertain to you, however we still encourage you to familiarize yourself with some of the information found under the "Additional Documentation" page where you will find information about the new ticket output and direct field comparisons to the current system.
 
 ### Support or Contact
 
