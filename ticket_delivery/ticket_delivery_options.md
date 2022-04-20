@@ -19,8 +19,7 @@ Use the matrix below to understand which test ticket format is best for your org
 ### Examples
 <a href="https://usanorth811.org/images/Option-1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.org/images/Option-2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.org/images/Option-3.zip" class="btn mr-4">Option 3</a>
 
-[Visit the webhook section for more information on how to use it.](/pelicancorp/ticket_delivery/webhook.html)
-
+<a href='/pelicancorp/ticket_delivery/webhook.html' class='btn'>Webhook</a>
 
 ## Glossary of Formats
 ### PDF
