@@ -14,7 +14,6 @@ Our cutover to the new Pelican System will take place on September 1, 2022. Use 
 
 ## April 20
 
-&nbsp; 
 
 New
 {: .label }
@@ -30,7 +29,6 @@ Removed
 
 ## April 19
 
-&nbsp;
 
 New
 {: .label }
