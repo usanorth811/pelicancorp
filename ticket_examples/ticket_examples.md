@@ -19,3 +19,7 @@ The Geography Markup Language (GML) is the XML grammar defined by the Open Geosp
 
 ### XML
 Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. It provides a simple standard for transmitting ticket data to be consumed by most ticket-management systems.
+
+### Legacy Format
+This is a replica of the format previously used in Newtin. Available in plain text, it remains as an option for those that would like to continue recieving their tickets in this truncated format.
+

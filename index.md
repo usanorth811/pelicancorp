@@ -21,6 +21,7 @@ New
 
 Updated
 {: .label .label-yellow }
+- [Definitions in the ticket example glossary have been expanded.](/pelicancorp/ticket_examples/ticket_examples.html)
 - [Excavator ticket example has been moved to the Additional Documentation page](/pelicancorp/additional_documentation.html)
 
 Removed
