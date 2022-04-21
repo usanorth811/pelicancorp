@@ -5,6 +5,15 @@ parent: Ticket Delivery Options
 nav_order: 3
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Webhook
 The full Webhook Utility Member Guides for both California and Nevada can be found using the links below.
 
