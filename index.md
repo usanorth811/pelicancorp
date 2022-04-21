@@ -61,6 +61,8 @@ The following items have been added
 
 ---
 
+## FAQ
+
 ### How to use this site
 Although we encourage everyone to review all the information available to them, we understand that certain things must be prioritized. Therefore, using the menu on the left (top right if on mobile), you can jump straight to any topic you need. 
 
