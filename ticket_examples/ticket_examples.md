@@ -4,6 +4,15 @@ title: Ticket Examples
 nav_order: 3
 has_children: true
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 ## Ticket Examples
 Example tickets are available in the following formats
