@@ -8,10 +8,10 @@ nav_order: 5
 |:---------------------|:---------------|:----------------------|
 |REFERRAL DETAILS|ReferralDetails||
 |MESSAGE VERSION NO=|MessageVersionNumber|1.0.10|
-|FROM=|From|USA NORTH 811|
+|FROM=|From|Underground Service Alert|
 |TICKET MEDIUM=|TicketMedium|Web|
 |UTILITY ID=|UtilityID|10504|
-|STATION CODE=|StationCode|CSNA|
+|STATION CODE=|StationCode|CSNAUT|
 |UTILITY NAME=|UtilityName|California North State Authority|
 |TO=|To|Operational Contact|
 |JOB NO=|JobNumber|20558|
@@ -41,7 +41,7 @@ nav_order: 5
 |PERMIT=|Permit|A1234|
 |JOB NO/NAME=|JobNoName|1234|
 |STATION LIST=|StationList|"CNSA, CCOWTR, COMNCA, PACBEL"|
-|CALLER DETAILS  |CustomerDetails|
+|CALLER DETAILS  |CustomerDetails||
 |EXCAVATOR ID=|ExcavatorID|32|
 |CONTACT=|Contact|Caller Name|
 |COMPANY=|Company|ABC Excavation|

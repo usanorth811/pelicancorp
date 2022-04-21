@@ -12,6 +12,16 @@ Our cutover to the new Pelican System will take place on September 2, 2022. Use 
 
 ---
 
+## April 21
+
+New
+{: .label }
+- [Legacy format has been added as a ticket delivery option](/pelicancorp/ticket_delivery/legacy.html)
+Updated
+{: .label .label-yellow}
+- [Ticket Delivery examples have been updated](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
+- [Data Structure Guide has been updated](/pelicancorp/data_structure_guide.html)
+
 ## April 20
 
 
