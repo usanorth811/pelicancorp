@@ -39,7 +39,7 @@ Updated
 
 Removed
 {: .label .label-red }
-- The stand alone excavator example page has been removed (consolodated under additional documentation)
+- The stand alone excavator example page has been removed (consolidated under additional documentation)
 
 ## April 19
 
