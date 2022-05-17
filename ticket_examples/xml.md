@@ -8,6 +8,11 @@ nav_order: 4
 ## XML
 Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. It provides a simple standard for transmitting ticket data to be consumed by most ticket-management systems.
 
+<small>*The fields for "Anticipated Depth" and "Work Duration" are only being used in California and will remain blank on all Nevada tickets.</small>
+
+<a href="https://usanorth811.org/images/USNCA-ONE-ANA-USA-North-811-Northern-California-TT55923-OneCallAccess-Webhook-Member-Guide.pdf" class="btn mr-4">California</a>
+<a href="https://usanorth811.org/images/USNNV-ONE-ANA-USA-North-811-Nevada-TT55923-OneCallAccess-Webhook-Member-Guide.pdf" class="btn mr-4">Nevada</a>
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usan.xsd">
