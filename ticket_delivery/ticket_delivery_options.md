@@ -18,7 +18,9 @@ Use the matrix below to understand which test ticket format is best for your org
 | Option 5 (Legacy)    | This is a replica of the format previously used in Newtin. It remains as an option for those that would like to continue recieving their tickets in this truncated format. | Ticket Number,  Contains ticket data | Plain Text | 
 
 ### Examples
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1.zip" class="btn mr-4">Option 1</a> <a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Option 2</a> <a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Option 3</a>
+<a href="https://usanorth811.github.io/pelicancorp/ticket_delivery/option_1.html" class="btn mr-4">Option 1</a> 
+<a href="https://usanorth811.github.io/pelicancorp/ticket_delivery/option_2.html" class="btn mr-4">Option 2</a> 
+<a href="https://usanorth811.github.io/pelicancorp/ticket_delivery/option_3.html" class="btn mr-4">Option 3</a>
 
 <a href='/pelicancorp/ticket_delivery/webhook.html' class='btn'>Webhook Documentation</a>
 

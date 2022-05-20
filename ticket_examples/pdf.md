@@ -10,5 +10,5 @@ Designed to present documents consistently across multiple devices and platforms
 
 The full PDF Ticket example can be found using the links below.
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Output_Member_CA.pdf" class="btn">California PDF Example</a>
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Output_Member_NV.pdf" class="btn">Nevada PDF Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Output_Member_CA.pdf" class="btn">California PDF Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Output_Member_NV.pdf" class="btn">Nevada PDF Example</a>
