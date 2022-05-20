@@ -22,6 +22,7 @@ New
 Updated
 {: .label .label-yellow}
 - [Newtin input field comparison doc has been updated](/pelicancorp/additional_documentation.html)
+- [Data Structure Guide has been updated](/pelicancorp/data_structure_guide.html)
 
 ## April 21
 
