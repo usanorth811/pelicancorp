@@ -69,5 +69,6 @@ nav_order: 6
 |ONSITE CONTACT PHONE=|OnsiteContactPhone|925-555-5551|
 |LATITUDE=|Latitude|37.980141|
 |LONGITUDE=|Longitude|-122.048395|
+| WKT= | WKT | POLYGON((-122.908755711616 49.1388832870127,-122.910552791657 49.1388850417885,-122.910517922938 49.1385762003558,-122.908761076032 49.1385779551425,-122.908755711616 49.1388832870127))|
 |EXCAVATOR REMARKS=|ExcavatorRemarks|This is a test ticket please do not process|
                                                                                                                                        
