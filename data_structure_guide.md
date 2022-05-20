@@ -33,6 +33,8 @@ nav_order: 6
 |WORK ACTIVITY=|WorkActivity|Culvert Work|
 |DELINEATED METHOD=|DelineatedMethod|Yes-Paint|
 |EXCAVATION SIZE=|ExcavationSize|5215 Sq Ft|
+|BORING REQUIRED=|BoringRequired|No|
+|BLASTING REQUIRED=|BlastingRequired|No|
 |EXCAVATION METHOD=|ExcavationMethod|Grinding|
 |VACUUM EXCAVATION=|VacuumExcavation|No|
 |ANTICIPATED DEPTH=|AnticipatedDepth|48 to 84 inches|
