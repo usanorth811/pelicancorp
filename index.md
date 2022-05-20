@@ -11,6 +11,16 @@ Our cutover to the new Pelican System will take place on September 2, 2022. Use 
 {: .fs-6 .fw-300 }
 
 ---
+## May 20
+
+New
+{: .label }
+- [California and Nevada examples have been added to the delivery options](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
+- [XML Field Comparison Doc has been added to additional documentation](/pelicancorp/additional_documentation.html)
+
+Updated
+{: .label .label-yellow}
+- [Newtin input field comparison doc has been updated](/pelicancorp/additional_documentation.html)
 
 ## April 21
 

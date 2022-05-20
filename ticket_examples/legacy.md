@@ -5,8 +5,6 @@ parent: Ticket Examples
 nav_order: 6
 ---
 
-Note: The example on this page is currently incomplete and subject to change
-{: .label .label-red }
 
 ## Legacy Format
 

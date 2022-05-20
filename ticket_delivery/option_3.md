@@ -13,6 +13,8 @@ Intended for use with ticket management system and/or GIS, the email body contai
 | Option 3     | Intended for use with ticket management system and/or GIS	| Contains All ticket data   |Ticket Number	|.GIF - .GML - .XML|Plain Text E-Mail|
 
 ### Example
-Here is an example ticket of option 3. The example is in a .msg format.
+Option 3 example ticket. California and Nevada examples are both available.
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Option 3</a>
+
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3-nv.zip" class="btn mr-4">Download Nevada Example</a>

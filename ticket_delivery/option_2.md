@@ -13,6 +13,8 @@ Although it can be printed and read, it is intended for members who will be pars
 | Option 2     | Can be printed/read, but is intended for members who will be parsing data into a ticket management system and/or GIS.	   | Contains All ticket data  |Ticket Number|.GIF - .GML|Plain Text E-Mail|
 
 ### Example
-Here is an example ticket of option 2. The example is in a .msg format.
+Option 2 example ticket. California and Nevada examples are both available.
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Option 2</a>
+
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2-nv.zip" class="btn mr-4">Download Nevada Example</a>

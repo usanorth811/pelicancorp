@@ -13,6 +13,8 @@ Best suited for Members without a ticket management system who wish to view or p
 | Option 1     | Members without a ticket management system who wish to view or print their tickets in an easily readable format. | General Information  |Ticket Number|.PDF|PDF Attachment|
 
 ### Example
-Here is an example ticket of option 1. The example is in a .msg format.
+Option 1 example ticket. California and Nevada examples are both available.
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1.zip" class="btn mr-4">Option 1</a>
+
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1-nv.zip" class="btn mr-4">Download Nevada Example</a>
