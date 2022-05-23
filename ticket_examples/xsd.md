@@ -47,7 +47,9 @@ nav_order: 5
                 <xs:element name="DelineatedMethod" type="xs:string" />
                 <xs:element name="ExcavationSize" type="xs:string" />							
                 <xs:element name="ExcavationMethod" type="xs:string" />							
-                <xs:element name="VacuumExcavation" type="xs:boolean" />							
+                <xs:element name="VacuumExcavation" type="xs:boolean" />
+                <xs:element name="BoringRequired" type="xs:boolean" />
+                <xs:element name="BlastingRequired" type="xs:boolean" />
                 <xs:element name="AnticipatedDepth" type="xs:string" />							
                 <xs:element name="ResponseRequired" type="xs:boolean" />
                 <xs:element name="ProjectOwner" type="xs:string" />

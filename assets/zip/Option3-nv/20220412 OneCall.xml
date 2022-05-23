@@ -29,8 +29,6 @@
 	<onecall:ExcavationSize>105891 Sq Ft</onecall:ExcavationSize>
     <onecall:ExcavationMethod>Boring - vertical</onecall:ExcavationMethod>
     <onecall:VacuumExcavation>true</onecall:VacuumExcavation>
-    <onecall:BoringRequired>true</onecall:BoringRequired>
-	  <onecall:BlastingRequired>false</onecall:BlastingRequired>
     <onecall:AnticipatedDepth></onecall:AnticipatedDepth>
     <onecall:ResponseRequired>true</onecall:ResponseRequired>
     <onecall:ProjectOwner>Fresno County</onecall:ProjectOwner>

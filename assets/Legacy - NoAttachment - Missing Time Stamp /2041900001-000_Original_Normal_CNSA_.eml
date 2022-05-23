@@ -1,0 +1,228 @@
+Date: Tue, 19 Apr 2022 14:34:22 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="16505522860.b166a.79"
+Content-Transfer-Encoding: 7bit
+Subject: TICKET: 2022041900001-000 Original Normal(CNSA)
+From: noreply@peldev.net
+To: martine.savary@pelicancorp.com
+Message-Id:
+ <01000180423eedde-b524feb6-8f01-44f7-a93c-b472fef15f4b-000000@email.amazonses.com>
+Received: from SYCP282MB0093.AUSP282.PROD.OUTLOOK.COM (2603:10c6:10:8e::17)
+ by ME3P282MB3649.AUSP282.PROD.OUTLOOK.COM with HTTPS; Tue, 19 Apr 2022
+ 14:34:27 +0000
+Received: from ME2PR01CA0057.ausprd01.prod.outlook.com (2603:10c6:201:2b::21)
+ by SYCP282MB0093.AUSP282.PROD.OUTLOOK.COM (2603:10c6:10:8e::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5164.20; Tue, 19 Apr
+ 2022 14:34:26 +0000
+Received: from ME3AUS01FT023.eop-AUS01.prod.protection.outlook.com
+ (2603:10c6:201:2b:cafe::e1) by ME2PR01CA0057.outlook.office365.com
+ (2603:10c6:201:2b::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5164.21 via Frontend
+ Transport; Tue, 19 Apr 2022 14:34:26 +0000
+Received: from a8-38.smtp-out.amazonses.com (54.240.8.38) by
+ ME3AUS01FT023.mail.protection.outlook.com (10.114.155.164) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5164.19 via Frontend Transport; Tue, 19 Apr 2022 14:34:24 +0000
+Authentication-Results: spf=pass (sender IP is 54.240.8.38)
+ smtp.mailfrom=amazonses.com; dkim=pass (signature was verified)
+ header.d=peldev.net;dmarc=pass action=none
+ header.from=peldev.net;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of amazonses.com
+ designates 54.240.8.38 as permitted sender) receiver=protection.outlook.com;
+ client-ip=54.240.8.38; helo=a8-38.smtp-out.amazonses.com;
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+ s=fp37erzabkfqb3waxc4zoyjituoeed3t; d=peldev.net; t=1650378862;
+ h=MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Message-ID;
+ bh=9Oylus00V45bmmj3myI3P/iyTpPnnCA3ZnzgbSb40Uw=;
+ b=VOTUCskFlqW6StRJDj/ITq9ydrAmX5o9Zj8qS0UWfpI7iSl2LAnVWqDKpUDwuUUk
+ P4axmkjd8lWMHiqm/6x1hyifJFWoewpvx6M1nfaw6qaePR6/0DUKSopErKxHjzEbdGR
+ 3msgujw70l9hXwE8aeAERH7Xmy2GvlH/13lVRwps=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+ s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1650378862;
+ h=MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Message-ID:Feedback-ID; bh=9Oylus00V45bmmj3myI3P/iyTpPnnCA3ZnzgbSb40Uw=; b=FaWecKMlRwnZxqJCoQFPkFBgcILTLUe4Wg2mUCLgySkUnO5VvTrW//kopTBmm3dn yeIWRAOPPZzxl11eoVFWfBPjQTLlPrWYvRdx7CwR0t4ckG94pNxfMNSCK+7AR2dt4Ak pJ1bh4JIC/7u5PiPJQYdPnO7jLx0GpuMqzLycyDI=
+Content-Disposition: inline
+Reply-To: noreply@peldev.net
+Feedback-ID:
+ 1.us-east-1.a60xop1cbYXp/uGZR1NdzjSq6KZVJci5LYriokZNlxE=:AmazonSES
+X-SES-Outgoing: 2022.04.19-54.240.8.38
+Return-Path:
+ 01000180423eedde-b524feb6-8f01-44f7-a93c-b472fef15f4b-000000@amazonses.com
+X-MS-Exchange-Organization-ExpirationStartTime: 19 Apr 2022 14:34:25.0028
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ d1443980-5a55-42a0-5f24-08da2211b3a4
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 1d630997-c4ac-4060-b36d-0a98ed814baf:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource:
+ ME3AUS01FT023.eop-AUS01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: d1443980-5a55-42a0-5f24-08da2211b3a4
+X-MS-TrafficTypeDiagnostic: SYCP282MB0093:EE_
+X-MS-Exchange-AtpMessageProperties: SA
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:54.240.8.38;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:a8-38.smtp-out.amazonses.com;PTR:a8-38.smtp-out.amazonses.com;CAT:NONE;SFS:(13230001)(4636009)(9686003)(7596003)(6486002)(7636003)(26005)(1096003)(8676002)(5660300002)(336012)(956004)(83380400001)(6512007)(71280400001)(83170400001)(33964004)(966005)(36736006)(6916009)(42882007)(356005)(6506007)(40140700001)(79850400001);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 19 Apr 2022 14:34:24.3466
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ d1443980-5a55-42a0-5f24-08da2211b3a4
+X-MS-Exchange-CrossTenant-Id: 1d630997-c4ac-4060-b36d-0a98ed814baf
+X-MS-Exchange-CrossTenant-AuthSource:
+ ME3AUS01FT023.eop-AUS01.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SYCP282MB0093
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5863161
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.5164.025
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506458)(944626604)(920097)(930097);
+X-Microsoft-Antispam-Message-Info:
+ =?us-ascii?Q?WwTvk3YXYc1vxMDcxwwskJsbpozusYygdaNqYXvS3DDx2YugPEWgP6Lpeorr?=
+ =?us-ascii?Q?53WZMKaHMSz0NL1aaDF21dCukvR+fdiW83P71TcdulCePGcMaC5clMHGpkOs?=
+ =?us-ascii?Q?6EbuR5q4KdwNXpcdKvpNqZCrjk3L6jWXeF1bjP/4HH+sZ6k3A2EbKeZ5LUE9?=
+ =?us-ascii?Q?leP4hD5eI83zIbJxT2CIdgS3q1LyDCgNfqDiZ61MotKy6Z5+H2eIfi90LHGQ?=
+ =?us-ascii?Q?JsH4qaCV9HKd5MHvo8ywASqD2qFZkFkDKlvF2E3B+JXM0lhEYDHh9N9fHuXb?=
+ =?us-ascii?Q?RkLrGPPputwbYbXHsuvFr8848pQTVCeEWGZACJZKG+Lt1OYLW1CIpHOWJ3X7?=
+ =?us-ascii?Q?IUfb3dWAinO328iKq4VYtQeh40AQ8iBh55a88MJ42CxfJgOveDfDKTjitsNt?=
+ =?us-ascii?Q?PYJNYeeP5yTUn/KeWFXyWIOfAsTXvEBP9cgBYJzivWs/IxLHyg+dUNewCeWu?=
+ =?us-ascii?Q?hslXtPMBRQDAKhBqP1pCCoy+mFgIQmu4fXlBe/mdxCvVe81y/IZMbcFc36zf?=
+ =?us-ascii?Q?sXxIEQlhowNaqEgUxNTzFjvsLhge6qUoBd3sg6nZf4cvqJKtIHXz4YPrsocW?=
+ =?us-ascii?Q?c/RKsfWvZ6t3feMWGGMlVdzU/kIJ1q/jZqoBoX9i38PxGIzy9dvkz846btJM?=
+ =?us-ascii?Q?/559ZjZVDWVr7oC/W68qCoVd009WYlWwsOpvD0mfz4HPCqXGbcEPB9Yd1qjz?=
+ =?us-ascii?Q?a8cTIb+UhvWdJPHLZAo36ImqCK6otVzWP6fgkhngvthTIpDpDitgUHvAnp+H?=
+ =?us-ascii?Q?qyV9YXdU06IqYoao78ztuhWxC7lXDEv5i0hNtrvt1a43G2wLGaFfJkWYxugK?=
+ =?us-ascii?Q?mWTYtTxOey27BUJaUJU7sEgSjPrhgAdUObfmk92EjOMhqWMak+LVo6fPQhBc?=
+ =?us-ascii?Q?csLMZAOjskpg0vwlMEMqV1iZNNd1nO4m/mVjOprMS9nK36ieR6HkHf/c5At5?=
+ =?us-ascii?Q?SI+XlgyQ2x0XzE2Fg5MMFULnTRBsRceSSmPpnq4LTC4j+4YHjEGW51GOABgB?=
+ =?us-ascii?Q?RgO3Y2tiUq69PjMneMBCjgBEuJeFucVXVYpii+UklgvkZSjf+svOT3izGsuS?=
+ =?us-ascii?Q?xXO2cxxFTtKL5AI7SeaZbvJQuCBbyNYFcgmfn7qNGRf9FtoYEvnIvEsFERPC?=
+ =?us-ascii?Q?MO8s2Hb3XDBWPtdqJmxQ52Qr6J1cAWPGh/TKSivxbh2nC5501xyahEdBZcuX?=
+ =?us-ascii?Q?QtRKsQ1+cKBpcyhw+Zz9IkGnwBtZofEK1AYqfhle8x4Zp7TqekX+tRv2heEe?=
+ =?us-ascii?Q?4PI91guL4Ap8SaG2A184kpuzg2oXFJbcXvjdrbODl1KtyB7G8ui08wRR+4KS?=
+ =?us-ascii?Q?J1xtMbGjTjTKYqPQxoG8KTAezGOfnG3HPGLla8aOiIi1/a6vICFkanYA5yLk?=
+ =?us-ascii?Q?vtymYOx8swZp+taq+OKXWOcyV3x7CqAAVRnErmdF32AgzoLj7s+FbnirnABz?=
+ =?us-ascii?Q?4F7T+sgu3pwRwq9BhZZSxXOwva0CydPvsDsv4Uv+Xlbh6M1LfJOf8uEEC44Y?=
+ =?us-ascii?Q?4NeDfw4thHAChGwUhe7ULfr+PdIBHOEY/Ekq9kNPYhHvgupb9KBuU/Nj9u39?=
+ =?us-ascii?Q?KZ0h6WFh3H8FflBm1rUqpdO9BNn1mhsD5CPNrC9XFJ9Rh4G+GX4vjs4bD3Gn?=
+ =?us-ascii?Q?J2Du8WAIBswfSyBqhvaI7MWSslJMG1vIECMQ87nbx0PzxVI0YPYFyyc+RxRU?=
+ =?us-ascii?Q?BfUin1Y+NIxnm6oVMglrxBLykwAajIF+wITWlWOTCeovuJ9g1iJ0ngSRHFow?=
+ =?us-ascii?Q?w1OK4dFbT2x7cR/EFAEiR7r6qH6pyJjiMkvZrl+PDR1/IcZZE++bhFuVXOwL?=
+ =?us-ascii?Q?XcziETFfanp+ogxGdERIxJ8gTh2ZZZNqISa748+fM/pY77ar9AdFBNup7Jg4?=
+ =?us-ascii?Q?wfaj2X6a1KoFvykcoCzsyU6ZLNYZ3jr/3sauHe8=3D?=
+
+
+--16505522860.b166a.79
+Content-Type: text/plain; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+CNSA 25354 USAN 04/19/22 07:48 2022041900001-000 NEW NORM POLY LREQ
+
+Ticket: 2022041900001 Rev: 000 Created: 04/19/22 07:48 User: martine.savary@pelicancorp.com Chan: WEB
+
+Work Start: 04/25/22 08:00 Legal Start: 04/25/22 08:00 Expires: 05/19/22 23:59
+Response required: Y Priority: 1
+
+Excavator Information
+Company: PelicanCorp
+Co Addr: 123
+City   : Clovis       State: CA   Zip: 33564
+Created By: Martine Savary Language: English
+Office Phone: 541-565-6565 SMS/Cell: 
+Office Email: martine.savary@pelicancorp.com
+
+Site Contact: test
+Site Phone: 454-455-4455 x4545   Site SMS/Cell: 123-456-7890
+Site Email: martine.savary@pelicancorp.com
+
+Excavation Area
+State: CA County: FRESNO Place: CLOVIS
+Zip: 93619
+Location: Address/Street: 1055 Fowler Ave
+        : X/ST1: Barstow ave
+        : 
+        :
+        : This is a test ticket please do not process
+        : 
+        : 
+        : 
+        : 
+        : 
+        : 
+        :
+
+Delineated Method: Yes- See Remarks
+Work Type: Monitoring Wells Work
+Work For : City of Albany
+Permit:                                Job/Work order: test 
+1 Year: Y Boring: N Street/Sidewalk: Y Vacuum: N Explosives: N
+
+Lat/Long
+Center Generated (NAD83): 36.817019/-119.681335
+                                                : 
+Excavator Provided: 36.817019/-119.681335
+
+Polygon   :
+
+Map link:
+https://onecall.usanorth811.org/map/nativemap?lon=-119.683045&lat=36.816590
+
+Members:
+CNSA
+
+
+(C) Copyright 2019 Underground Service Alert of Northern California and Nevada.
+                             All rights reserved.
+
+
+--16505522860.b166a.79
+Content-Type: application/rtf
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZnJvbXRleHQgXGZiaWRpcyBcZGVmZjB7XGZvbnR0YmwK
+DXtcZjBcZnN3aXNzIEFyaWFsO30KDXtcZjFcZm1vZGVybiBDb3VyaWVyIE5ldzt9Cg17XGYyXGZu
+aWxcZmNoYXJzZXQyIFN5bWJvbDt9Cg17XGYzXGZtb2Rlcm5cZmNoYXJzZXQwIENvdXJpZXIgTmV3
+O319Cg17XGNvbG9ydGJsXHJlZDBcZ3JlZW4wXGJsdWUwO1xyZWQwXGdyZWVuMFxibHVlMjU1O30K
+DVx1YzFccGFyZFxwbGFpblxkZWZ0YWIzNjAgXGYwXGZzMjAgQ05TQSAyNTM1NCBVU0FOIDA0LzE5
+LzIyIDA3OjQ4IDIwMjIwNDE5MDAwMDEtMDAwIE5FVyBOT1JNIFBPTFkgTFJFUVxwYXIKDVxwYXIK
+DVRpY2tldDogMjAyMjA0MTkwMDAwMSBSZXY6IDAwMCBDcmVhdGVkOiAwNC8xOS8yMiAwNzo0OCBV
+c2VyOiBtYXJ0aW5lLnNhdmFyeUBwZWxpY2FuY29ycC5jb20gQ2hhbjogV0VCXHBhcgoNXHBhcgoN
+V29yayBTdGFydDogMDQvMjUvMjIgMDg6MDAgTGVnYWwgU3RhcnQ6IDA0LzI1LzIyIDA4OjAwIEV4
+cGlyZXM6IDA1LzE5LzIyIDIzOjU5XHBhcgoNUmVzcG9uc2UgcmVxdWlyZWQ6IFkgUHJpb3JpdHk6
+IDFccGFyCg1ccGFyCg1FeGNhdmF0b3IgSW5mb3JtYXRpb25ccGFyCg1Db21wYW55OiBQZWxpY2Fu
+Q29ycFxwYXIKDUNvIEFkZHI6IDEyM1xwYXIKDUNpdHkgICA6IENsb3ZpcyAgICAgICBTdGF0ZTog
+Q0EgICBaaXA6IDMzNTY0XHBhcgoNQ3JlYXRlZCBCeTogTWFydGluZSBTYXZhcnkgTGFuZ3VhZ2U6
+IEVuZ2xpc2hccGFyCg1PZmZpY2UgUGhvbmU6IDU0MS01NjUtNjU2NSBTTVMvQ2VsbDogXHBhcgoN
+T2ZmaWNlIEVtYWlsOiBtYXJ0aW5lLnNhdmFyeUBwZWxpY2FuY29ycC5jb21ccGFyCg1ccGFyCg1T
+aXRlIENvbnRhY3Q6IHRlc3RccGFyCg1TaXRlIFBob25lOiA0NTQtNDU1LTQ0NTUgeDQ1NDUgICBT
+aXRlIFNNUy9DZWxsOiAxMjMtNDU2LTc4OTBccGFyCg1TaXRlIEVtYWlsOiBtYXJ0aW5lLnNhdmFy
+eUBwZWxpY2FuY29ycC5jb21ccGFyCg1ccGFyCg1FeGNhdmF0aW9uIEFyZWFccGFyCg1TdGF0ZTog
+Q0EgQ291bnR5OiBGUkVTTk8gUGxhY2U6IENMT1ZJU1xwYXIKDVppcDogOTM2MTlccGFyCg1Mb2Nh
+dGlvbjogQWRkcmVzcy9TdHJlZXQ6IDEwNTUgRm93bGVyIEF2ZVxwYXIKDSAgICAgICAgOiBYL1NU
+MTogQmFyc3RvdyBhdmVccGFyCg0gICAgICAgIDogXHBhcgoNICAgICAgICA6XHBhcgoNICAgICAg
+ICA6IFRoaXMgaXMgYSB0ZXN0IHRpY2tldCBwbGVhc2UgZG8gbm90IHByb2Nlc3NccGFyCg0gICAg
+ICAgIDogXHBhcgoNICAgICAgICA6IFxwYXIKDSAgICAgICAgOiBccGFyCg0gICAgICAgIDogXHBh
+cgoNICAgICAgICA6IFxwYXIKDSAgICAgICAgOiBccGFyCg0gICAgICAgIDpccGFyCg1ccGFyCg1E
+ZWxpbmVhdGVkIE1ldGhvZDogWWVzLSBTZWUgUmVtYXJrc1xwYXIKDVdvcmsgVHlwZTogTW9uaXRv
+cmluZyBXZWxscyBXb3JrXHBhcgoNV29yayBGb3IgOiBDaXR5IG9mIEFsYmFueVxwYXIKDVBlcm1p
+dDogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEpvYi9Xb3JrIG9yZGVyOiB0ZXN0IFxw
+YXIKDTEgWWVhcjogWSBCb3Jpbmc6IE4gU3RyZWV0L1NpZGV3YWxrOiBZIFZhY3V1bTogTiBFeHBs
+b3NpdmVzOiBOXHBhcgoNXHBhcgoNTGF0L0xvbmdccGFyCg1DZW50ZXIgR2VuZXJhdGVkIChOQUQ4
+Myk6IDM2LjgxNzAxOS8tMTE5LjY4MTMzNVxwYXIKDSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIDogXHBhcgoNRXhjYXZhdG9yIFByb3ZpZGVkOiAzNi44MTcw
+MTkvLTExOS42ODEzMzVccGFyCg1ccGFyCg1Qb2x5Z29uICAgOlxwYXIKDVxwYXIKDU1hcCBsaW5r
+OlxwYXIKDWh0dHBzOi8vb25lY2FsbC51c2Fub3J0aDgxMS5vcmcvbWFwL25hdGl2ZW1hcD9sb249
+LTExOS42ODMwNDUmbGF0PTM2LjgxNjU5MFxwYXIKDVxwYXIKDU1lbWJlcnM6XHBhcgoNQ05TQVxw
+YXIKDVxwYXIKDVxwYXIKDShDKSBDb3B5cmlnaHQgMjAxOSBVbmRlcmdyb3VuZCBTZXJ2aWNlIEFs
+ZXJ0IG9mIE5vcnRoZXJuIENhbGlmb3JuaWEgYW5kIE5ldmFkYS5ccGFyCg0gICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIEFsbCByaWdodHMgcmVzZXJ2ZWQuXHBhcgoNXHBhcgoNfQ==
+
+--16505522860.b166a.79--
