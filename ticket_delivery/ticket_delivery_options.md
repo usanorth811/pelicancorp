@@ -24,7 +24,7 @@ Use the matrix below to understand which test ticket format is best for your org
 
 <a href='/pelicancorp/ticket_delivery/webhook.html' class='btn'>Webhook Documentation</a>
 
-<a class="btn" href="https://usanorth811.github.io/pelicancorp/assets/zip/Legacy.zip" >Legacy Format</a>
+<a class="btn" href="https://usanorth811.github.io/pelicancorp/ticket_delivery/legacy_format.html" >Legacy Format</a>
 
 ## Glossary of Formats
 ### PDF
