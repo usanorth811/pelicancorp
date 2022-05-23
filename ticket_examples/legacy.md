@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legacy
+title: Legacy Format
 parent: Ticket Examples
 nav_order: 6
 ---
