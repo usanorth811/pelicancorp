@@ -15,7 +15,7 @@ Use the matrix below to understand which test ticket format is best for your org
 | Option 2 (Email)     | Can be printed/read, but is intended for members who will be parsing data into a ticket management system and/or GIS.	   |  Ticket Number,  Contains All ticket data  |GIF, GML| 
 | Option 3 (Email)     | Intended for use with ticket management system and/or GIS	|  Ticket Number,  Contains All ticket data  	|GIF, GML, XML| 
 | Option 4 (Webhook)   | Intended for use with ticket management system and/or GIS  | N/A  | JSON | 
-| Option 5 (Legacy)    | This is a replica of the format previously used in Newtin. It remains as an option for those that would like to continue recieving their tickets in this truncated format. | Ticket Number,  Contains ticket data | Plain Text | 
+| Option 5 (Legacy)    | This is a replica of the format previously used in Newtin. It remains as an option for those that would like to continue receiving their tickets in this format. By choosing this format you will be excluding new fields and information collected by the One Call Access ticketing system. | Ticket Number,  Contains ticket data | Plain Text | 
 
 ### Examples
 <a href="https://usanorth811.github.io/pelicancorp/ticket_delivery/option_1.html" class="btn mr-4">Option 1</a> 
