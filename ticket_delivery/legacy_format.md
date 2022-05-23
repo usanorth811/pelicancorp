@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Legacy Format
-parent: Ticket Delivery
+parent: Ticket Delivery Options
 nav_order: 3
 ---
+
 
 ## Legacy Format
 
