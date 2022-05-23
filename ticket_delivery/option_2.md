@@ -16,5 +16,5 @@ Although it can be printed and read, it is intended for members who will be pars
 Option 2 example ticket. California and Nevada examples are both available.
 
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2.zip" class="btn mr-4">Download California Example</a>
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option2-nv.zip" class="btn mr-4">Download Nevada Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/California/Option2_CA.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/Nevada/Option2_NV.zip" class="btn mr-4">Download Nevada Example</a>

@@ -10,8 +10,8 @@ Extensible Markup Language (XML) is a markup language that defines a set of rule
 
 <small>*The fields for "Anticipated Depth" and "Work Duration" are only being used in California and will remain blank on all Nevada tickets.</small>
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/20220412-OneCall-ca.xml" class="btn mr-4">California XML Example</a>
-<a href="https://usanorth811.github.io/pelicancorp/assets/20220412-OneCall-nv.xml" class="btn mr-4">Nevada XML Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/XML/CA.xml" class="btn mr-4">California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/XML/NV.xml" class="btn mr-4">Nevada Example</a>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

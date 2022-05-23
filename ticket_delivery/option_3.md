@@ -16,5 +16,6 @@ Intended for use with ticket management system and/or GIS, the email body contai
 Option 3 example ticket. California and Nevada examples are both available.
 
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3.zip" class="btn mr-4">Download California Example</a>
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option3-nv.zip" class="btn mr-4">Download Nevada Example</a>
+
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/California/Option3_CA.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/Nevada/Option3_NV.zip" class="btn mr-4">Download Nevada Example</a>

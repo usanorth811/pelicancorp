@@ -8,6 +8,11 @@ nav_order: 3
 ## GML
 The Geography Markup Language (GML) is the XML grammar defined by the Open Geospatial Consortium (OGC) . It allows for the transmission of the digsite polygon as a spatial object rather than as a picture.
 
+
+<a href="https://usanorth811.github.io/pelicancorp/assets/GML/CA Option 2.GML" class="btn mr-4">California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/GML/NV Option 2.GML" class="btn mr-4">Nevada Example</a>
+
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml"

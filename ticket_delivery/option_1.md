@@ -16,5 +16,5 @@ Best suited for Members without a ticket management system who wish to view or p
 Option 1 example ticket. California and Nevada examples are both available.
 
 
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1.zip" class="btn mr-4">Download California Example</a>
-<a href="https://usanorth811.github.io/pelicancorp/assets/zip/Option1-nv.zip" class="btn mr-4">Download Nevada Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/California/Option1_CA.zip" class="btn mr-4">Download California Example</a>
+<a href="https://usanorth811.github.io/pelicancorp/assets/Delivery Options/Nevada/Option1_NV.zip" class="btn mr-4">Download Nevada Example</a>
