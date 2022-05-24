@@ -2,7 +2,7 @@
 layout: default
 title: Legacy Option
 parent: Ticket Delivery Options
-nav_order: 3
+nav_order: 5
 ---
 
 
