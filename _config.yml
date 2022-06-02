@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 
 theme: jekyll-theme-minimal
 
-title: Underground Service Alert
+title: Underground Service Alert of Northern CA & NV
 description: Underground Service Alert/PelicanCorp cutover documentation
 logo: "/assets/images/logo.png"
 color_scheme: usan

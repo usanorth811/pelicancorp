@@ -7,7 +7,7 @@ nav_order: 1
 # PelicanCorp Cutover
 {: .fs-9 }
 
-Our cutover to the new Pelican System will take place on September 2, 2022. Use the information on this site to prepare for the transition prior to the cutover date.
+Underground Service Alert of Northern CA & NV will cutover to the new Pelican System on September 2, 2022. Use the information on this site to prepare for the transition prior to the cutover date.
 {: .fs-6 .fw-300 }
 
 ---
