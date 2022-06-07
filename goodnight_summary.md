@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Email Whitelisting
+title: Goodnight Summary
 nav_order: 4
 ---
 # Goodnight Summary
