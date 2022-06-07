@@ -11,6 +11,14 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 {: .fs-6 .fw-300 }
 
 ---
+
+## June 7
+
+New
+{: .label }
+- [Goodnight Summary examples have been added](/pelicancorp/goodnight_summary.html)
+
+
 ## May 19
 
 New
