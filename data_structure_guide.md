@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Structure Guide
-nav_order: 6
+nav_order: 7
 ---
 
 | Email TXT Field Name | XML Field Name | Email TXT/XML Example |
