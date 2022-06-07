@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Goodnight Summary
-nav_order: 4
+nav_order: 5
 ---
 # Goodnight Summary
 A simple end of day summary of your tickets.

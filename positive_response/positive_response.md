@@ -2,7 +2,7 @@
 layout: default
 title: Positive Response
 has_children: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## Positive Response API Data Structure
