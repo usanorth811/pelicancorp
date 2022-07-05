@@ -5,6 +5,10 @@ nav_order: 8
 ---
 # Additional Documentation
 
+## DPP User Guide
+
+<a class="btn" href="https://usanorth811.github.io/pelicancorp/assets/PDF/PCUS-DPP-USAN_Training_Guide.pdf">DPP User Guide</a>
+
 
 ## Newtin (current system) vs Pelican (new system) Input Field Comparison
 
