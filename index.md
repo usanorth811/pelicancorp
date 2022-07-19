@@ -12,17 +12,6 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 ---
 
-## Getting Started
-
-### Creating an Account
-
-All utility member representatives must create an account on OneCallAccess. Creating an account on OneCallAccess will allow you to have single sign-on access to all of the new platforms that will be introduced in the weeks to come.
-Watch our account registration video below for important information about this process.
-
-If you have any questions about this process or the cutover in general, please reach out to the member services team.
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/723896341?h=1a7fd8e0e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="One Call Access Registration"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<a href="https://onecallca.undergroundservicealert.org/ngen.web/Internal/RegisterUser" class="btn mr-4">California Registration</a> <a href="https://onecallnv.undergroundservicealert.org/ngen.web/Internal/RegisterUser" class="btn mr-4">Nevada Registration</a>
 
 ## June 7
 
