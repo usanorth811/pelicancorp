@@ -12,7 +12,7 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 ---
 
-## June 7
+## July 26
 
 New
 {: .label }
