@@ -16,7 +16,7 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 New
 {: .label }
-- [Positive response API documentation was updated](/pelicancorp/positive_response.html)
+- [Positive response API documentation was updated](/pelicancorp/positive_response/positive_response.html)
 
 
 ## June 7
