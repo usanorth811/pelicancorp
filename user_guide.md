@@ -1,7 +1,4 @@
----
-layout: default
-title: User Guide
----
+
 # DamagePreventionPortal (DPP) User Guide
 
 <details open markdown="block">
