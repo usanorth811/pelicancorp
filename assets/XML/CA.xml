@@ -3,70 +3,76 @@
   <onecall:ReferralDetails>
     <onecall:MessageVersionNumber>1.0.10</onecall:MessageVersionNumber>
     <onecall:From>USA NORTH 811</onecall:From>
-    <onecall:TicketMedium>Web</onecall:TicketMedium>
-    <onecall:UtilityID>10504</onecall:UtilityID>
-    <onecall:StationCode>CNSA12</onecall:StationCode>
-    <onecall:UtilityName>California North State Authority</onecall:UtilityName>
-    <onecall:To>Mark Scopece</onecall:To>
-    <onecall:JobNumber>11</onecall:JobNumber>
-    <onecall:TicketNumber>2022041100005</onecall:TicketNumber>
+    <onecall:TicketMedium>WEB</onecall:TicketMedium>
+    <onecall:UtilityID>21666</onecall:UtilityID>
+    <onecall:StationCode>NICKTEST</onecall:StationCode>
+    <onecall:UtilityName>Nick's Test Company  A</onecall:UtilityName>
+    <onecall:To>Nick White</onecall:To>
+    <onecall:JobNumber>1002</onecall:JobNumber>
+    <onecall:TicketNumber>2022091500019</onecall:TicketNumber>
     <onecall:TicketRevisionNumber>000</onecall:TicketRevisionNumber>
-    <onecall:PreviousTicketNumber xsi:nil="true"/>
-    <onecall:PreviousTicketRevNumber xsi:nil="true"/>
-    <onecall:SequenceNumber>4</onecall:SequenceNumber>
-    <onecall:TransmissionID>123456789012</onecall:TransmissionID>
-    <onecall:SubmittedDate>2022-04-11T11:13:39.018116-07:00</onecall:SubmittedDate>
-    <onecall:WorkBeginDate>2022-04-11T11:12:00-07:00</onecall:WorkBeginDate>
-    <onecall:LegalStartDate>2022-04-13T11:13:39-07:00</onecall:LegalStartDate>
-    <onecall:TicketExpirationDate>2022-05-09T23:59:59-07:00</onecall:TicketExpirationDate>
-    <onecall:WorkDuration>2-4 Days</onecall:WorkDuration>
-	<onecall:IsEmergency>false</onecall:IsEmergency>
+    <onecall:PreviousTicketNumber></onecall:PreviousTicketNumber>
+    <onecall:PreviousTicketRevNumber></onecall:PreviousTicketRevNumber>
+    <onecall:SequenceNumber>6149</onecall:SequenceNumber>
+    <onecall:TransmissionID>3</onecall:TransmissionID>
+    <onecall:SubmittedDate>2022-09-15T14:57:44.804207-07:00</onecall:SubmittedDate>
+    <onecall:WorkBeginDate>2022-09-19T17:01:00-07:00</onecall:WorkBeginDate>
+    <onecall:LegalStartDate>2022-09-19T17:01:00-07:00</onecall:LegalStartDate>
+    <onecall:TicketExpirationDate>2022-10-13T23:59:59-07:00</onecall:TicketExpirationDate>
+    <onecall:WorkDuration>1 day or less</onecall:WorkDuration>
+    <onecall:IsEmergency>false</onecall:IsEmergency>
     <onecall:TicketStatus>Original</onecall:TicketStatus>
-    <onecall:TicketType>Short Notice</onecall:TicketType>
-    <onecall:WorkType>Environmental</onecall:WorkType>
-    <onecall:WorkActivity>Fuel Tank(s) Work</onecall:WorkActivity>
-    <onecall:DelineatedMethod>No</onecall:DelineatedMethod>
-	<onecall:ExcavationSize>105891 Sq Ft</onecall:ExcavationSize>
-    <onecall:ExcavationMethod>Boring - vertical</onecall:ExcavationMethod>
-    <onecall:VacuumExcavation>true</onecall:VacuumExcavation>
-    <onecall:BoringRequired>true</onecall:BoringRequired>
-	  <onecall:BlastingRequired>false</onecall:BlastingRequired>
-    <onecall:AnticipatedDepth>&gt;84 inches</onecall:AnticipatedDepth>
+    <onecall:TicketType>Normal</onecall:TicketType>
+    <onecall:WorkType>Residential property work</onecall:WorkType>
+    <onecall:WorkActivity>Yard - Deck/Mailbox/Playground/Pole/Lighting/Etc</onecall:WorkActivity>
+    <onecall:DelineatedMethod>Yes-Flags</onecall:DelineatedMethod>
+    <onecall:ExcavationSize>70 Ft diameter</onecall:ExcavationSize>
+    <onecall:ExcavationMethod>Hand digging</onecall:ExcavationMethod>
+    <onecall:VacuumExcavation>false</onecall:VacuumExcavation>
+    <onecall:AnticipatedDepth>&lt;12 inches</onecall:AnticipatedDepth>
     <onecall:ResponseRequired>true</onecall:ResponseRequired>
-    <onecall:ProjectOwner>Fresno County</onecall:ProjectOwner>
-    <onecall:Permit>County 12345678901234567890</onecall:Permit>
-    <onecall:JobNoName xsi:nil="true"/>
+    <onecall:ProjectOwner>Homeowner/Property Owner/Tenant/HOA</onecall:ProjectOwner>
+    <onecall:Permit></onecall:Permit>
+    <onecall:JobNoName xsi:nil="true" />
+    <onecall:Boring>false</onecall:Boring>
+    <onecall:PavementOnly>false</onecall:PavementOnly>
+    <onecall:Explosives>false</onecall:Explosives>
     <onecall:StationList>
-      <onecall:StationCode>CNSA12</onecall:StationCode>
+      <onecall:StationCode>CNSA</onecall:StationCode>
+      <onecall:StationCode>PACBEL</onecall:StationCode>
+      <onecall:StationCode>NICKTEST</onecall:StationCode>
     </onecall:StationList>
   </onecall:ReferralDetails>
   <onecall:CustomerDetails>
-    <onecall:ExcavatorID>25</onecall:ExcavatorID>
-    <onecall:Name>Martine Savary</onecall:Name>
-    <onecall:Company>--Not Listed--</onecall:Company>
-    <onecall:StreetAddress>123</onecall:StreetAddress>
-    <onecall:CityTownPlace>Clovis</onecall:CityTownPlace>
+    <onecall:ExcavatorID>51</onecall:ExcavatorID>
+    <onecall:Name>Caleb Woods</onecall:Name>
+    <onecall:Company />
+    <onecall:StreetAddress>4005 Port Chicago Hwy</onecall:StreetAddress>
+    <onecall:CityTownPlace>Concord</onecall:CityTownPlace>
     <onecall:State>CA</onecall:State>
-    <onecall:Zipcode>33564</onecall:Zipcode>
-    <onecall:UserType>Agriculture</onecall:UserType>
-	<onecall:UserIndustry>Homeowner</onecall:UserIndustry>
-    <onecall:Phone>541-565-6565</onecall:Phone>
-    <onecall:Mobile xsi:nil="true"/>
-    <onecall:Email>martine.savary@pelicancorp.com</onecall:Email>
-    <onecall:Language>English</onecall:Language>
+    <onecall:Zipcode>94520</onecall:Zipcode>
+    <onecall:UserType>Municipality</onecall:UserType>
+    <onecall:UserIndustry />
+    <onecall:Phone>305-310-5267</onecall:Phone>
+    <onecall:Mobile>503-310-5267</onecall:Mobile>
+    <onecall:Email>caleb.woods@usan.org</onecall:Email>
+    <onecall:Language />
   </onecall:CustomerDetails>
   <onecall:LocationDetails>
-    <onecall:AddressLocation>1055 Fowler Ave</onecall:AddressLocation>
-    <onecall:CityTownPlace>Clovis</onecall:CityTownPlace>
-    <onecall:County>Fresno</onecall:County>
+    <onecall:AddressLocation>1080 Azuar Drive</onecall:AddressLocation>
+    <onecall:CityTownPlace>Vallejo</onecall:CityTownPlace>
+    <onecall:County>Solano County</onecall:County>
     <onecall:State>CA</onecall:State>
-    <onecall:NearbyCrossStreet>Barstow ave</onecall:NearbyCrossStreet>
-    <onecall:StreetSidewalk>true</onecall:StreetSidewalk>
-    <onecall:SubdivisionLot xsi:nil="true"/>
-    <onecall:OnsiteContactName>Martine</onecall:OnsiteContactName>
-    <onecall:OnsiteContactPhone>4189484444</onecall:OnsiteContactPhone>
-    <onecall:Latitude>36.817805</onecall:Latitude>
-    <onecall:Longitude>-119.681675</onecall:Longitude>
-    <onecall:ExcavatorRemarks>test ticket</onecall:ExcavatorRemarks>
+    <onecall:NearbyCrossStreet>Rickover St</onecall:NearbyCrossStreet>
+    <onecall:StreetSidewalk>false</onecall:StreetSidewalk>
+    <onecall:SubdivisionLot xsi:nil="true" />
+    <onecall:OnsiteContactName>Caleb</onecall:OnsiteContactName>
+    <onecall:OnsiteContactPhone>1234567890</onecall:OnsiteContactPhone>
+    <onecall:Zipcode>94592</onecall:Zipcode>
+    <onecall:Latitude>38.096242</onecall:Latitude>
+    <onecall:Longitude>-122.272650</onecall:Longitude>
+    <onecall:WKT>POLYGON((-122.2725258276508 38.09625619402483,-122.27252762436497 38.09626572623395,-122.27253059965648 38.09627507394843,-122.27253472487163 38.096284147144736,-122.27253996028232 38.09629285844315,-122.27254625546873 38.09630112394922,-122.27255354980477 38.096308864061804,-122.27256177304197 38.09631600423956,-122.27257084598605 38.09632247571886,-122.27258068125965 38.09632821617597,-122.27259118414365 38.09633317032738,-122.27260225348957 38.09633729046204,-122.27261378269354 38.09634053690097,-122.27262566072305 38.09634287837927,-122.27263777318618 38.09634429234732,-122.27265000343324 38.09634476518789,-122.27266223368032 38.09634429234732,-122.27267434614342 38.09634287837927,-122.27268622417293 38.09634053690097,-122.27269775337693 38.09633729046204,-122.27270882272283 38.09633317032738,-122.27271932560684 38.09632821617597,-122.27272916088044 38.09632247571886,-122.27273823382451 38.09631600423956,-122.27274645706173 38.096308864061804,-122.27275375139774 38.09630112394922,-122.27276004658415 38.09629285844315,-122.27276528199486 38.096284147144736,-122.27276940721002 38.09627507394843,-122.27277238250153 38.09626572623395,-122.2727741792157 38.09625619402483,-122.27277478004922 38.09624656912134,-122.2727741792157 38.096236944216635,-122.27277238250153 38.09622741200372,-122.27276940721002 38.096218064283164,-122.27276528199486 38.09620899107866,-122.27276004658415 38.09620027977027,-122.27275375139774 38.09619201425278,-122.27274645706173 38.09618427412781,-122.27273823382451 38.096177133937196,-122.27272916088044 38.09617066244503,-122.27271932560684 38.09616492197552,-122.27270882272283 38.09615996781272,-122.27269775337693 38.09615584766806,-122.27268622417293 38.096152601220936,-122.27267434614342 38.096150259736525,-122.27266223368032 38.09614884576471,-122.27265000343324 38.09614837292287,-122.27263777318618 38.09614884576471,-122.27262566072305 38.096150259736525,-122.27261378269354 38.096152601220936,-122.27260225348957 38.09615584766806,-122.27259118414365 38.09615996781272,-122.27258068125965 38.09616492197552,-122.27257084598605 38.09617066244503,-122.27256177304197 38.096177133937196,-122.27255354980477 38.09618427412781,-122.27254625546873 38.09619201425278,-122.27253996028232 38.09620027977027,-122.27253472487163 38.09620899107866,-122.27253059965648 38.096218064283164,-122.27252762436497 38.09622741200372,-122.2725258276508 38.096236944216635,-122.2725258276508 38.09625619402483))</onecall:WKT>
+    <onecall:ExcavatorRemarks>Front of Property</onecall:ExcavatorRemarks>
+    <onecall:TicketEditReason></onecall:TicketEditReason>
   </onecall:LocationDetails>
 </onecall:OneCallReferral>

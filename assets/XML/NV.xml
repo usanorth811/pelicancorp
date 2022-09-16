@@ -1,70 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usan.xsd">
   <onecall:ReferralDetails>
     <onecall:MessageVersionNumber>1.0.10</onecall:MessageVersionNumber>
     <onecall:From>USA NORTH 811</onecall:From>
-    <onecall:TicketMedium>Web</onecall:TicketMedium>
-    <onecall:UtilityID>10504</onecall:UtilityID>
-    <onecall:StationCode>CNSA12</onecall:StationCode>
-    <onecall:UtilityName>California North State Authority</onecall:UtilityName>
-    <onecall:To>Mark Scopece</onecall:To>
-    <onecall:JobNumber>11</onecall:JobNumber>
-    <onecall:TicketNumber>2022041100005</onecall:TicketNumber>
+    <onecall:TicketMedium>WEB</onecall:TicketMedium>
+    <onecall:UtilityID>20263</onecall:UtilityID>
+    <onecall:StationCode>NICKTEST</onecall:StationCode>
+    <onecall:UtilityName>Nick's Test Company</onecall:UtilityName>
+    <onecall:To>Nick White</onecall:To>
+    <onecall:JobNumber>164</onecall:JobNumber>
+    <onecall:TicketNumber>2022091500012</onecall:TicketNumber>
     <onecall:TicketRevisionNumber>000</onecall:TicketRevisionNumber>
-    <onecall:PreviousTicketNumber xsi:nil="true"/>
-    <onecall:PreviousTicketRevNumber xsi:nil="true"/>
-    <onecall:SequenceNumber>4</onecall:SequenceNumber>
-    <onecall:TransmissionID>123456789012</onecall:TransmissionID>
-    <onecall:SubmittedDate>2022-04-11T11:13:39.018116-07:00</onecall:SubmittedDate>
-    <onecall:WorkBeginDate>2022-04-11T11:12:00-07:00</onecall:WorkBeginDate>
-    <onecall:LegalStartDate>2022-04-13T11:13:39-07:00</onecall:LegalStartDate>
-    <onecall:TicketExpirationDate>2022-05-09T23:59:59-07:00</onecall:TicketExpirationDate>
-    <onecall:WorkDuration></onecall:WorkDuration>
-	<onecall:IsEmergency>false</onecall:IsEmergency>
+    <onecall:PreviousTicketNumber></onecall:PreviousTicketNumber>
+    <onecall:PreviousTicketRevNumber></onecall:PreviousTicketRevNumber>
+    <onecall:SequenceNumber>717</onecall:SequenceNumber>
+    <onecall:TransmissionID>9</onecall:TransmissionID>
+    <onecall:SubmittedDate>2022-09-15T16:20:53.084043-07:00</onecall:SubmittedDate>
+    <onecall:WorkBeginDate>2022-09-19T17:00:00-07:00</onecall:WorkBeginDate>
+    <onecall:LegalStartDate>2022-09-19T17:00:00-07:00</onecall:LegalStartDate>
+    <onecall:TicketExpirationDate>2022-10-13T23:59:59-07:00</onecall:TicketExpirationDate>
+    <onecall:IsEmergency>false</onecall:IsEmergency>
     <onecall:TicketStatus>Original</onecall:TicketStatus>
-    <onecall:TicketType>Short Notice</onecall:TicketType>
-    <onecall:WorkType>Environmental</onecall:WorkType>
-    <onecall:WorkActivity>Fuel Tank(s) Work</onecall:WorkActivity>
-    <onecall:DelineatedMethod>No</onecall:DelineatedMethod>
-	<onecall:ExcavationSize>105891 Sq Ft</onecall:ExcavationSize>
-    <onecall:ExcavationMethod>Boring - vertical</onecall:ExcavationMethod>
-    <onecall:VacuumExcavation>true</onecall:VacuumExcavation>
-    <onecall:AnticipatedDepth></onecall:AnticipatedDepth>
+    <onecall:TicketType>Normal</onecall:TicketType>
+    <onecall:WorkType>Road Work</onecall:WorkType>
+    <onecall:WorkActivity>Culvert Work</onecall:WorkActivity>
+    <onecall:DelineatedMethod>Yes-Flags</onecall:DelineatedMethod>
+    <onecall:ExcavationSize>170 Ft diameter</onecall:ExcavationSize>
+    <onecall:ExcavationMethod>Trencher</onecall:ExcavationMethod>
     <onecall:ResponseRequired>true</onecall:ResponseRequired>
-    <onecall:ProjectOwner>Fresno County</onecall:ProjectOwner>
-    <onecall:Permit>County 12345678901234567890</onecall:Permit>
-    <onecall:JobNoName xsi:nil="true"/>
+    <onecall:ProjectOwner>Land Developer - mixed-use or non-residential</onecall:ProjectOwner>
+    <onecall:Permit></onecall:Permit>
+    <onecall:JobNoName xsi:nil="true" />
+    <onecall:Boring>false</onecall:Boring>
+    <onecall:Explosives>false</onecall:Explosives>
     <onecall:StationList>
-      <onecall:StationCode>CNSA12</onecall:StationCode>
+      <onecall:StationCode>NICKTEST</onecall:StationCode>
+      <onecall:StationCode>NVSA</onecall:StationCode>
     </onecall:StationList>
   </onecall:ReferralDetails>
   <onecall:CustomerDetails>
-    <onecall:ExcavatorID>25</onecall:ExcavatorID>
-    <onecall:Name>Martine Savary</onecall:Name>
-    <onecall:Company>--Not Listed--</onecall:Company>
-    <onecall:StreetAddress>123</onecall:StreetAddress>
-    <onecall:CityTownPlace>Clovis</onecall:CityTownPlace>
-    <onecall:State>CA</onecall:State>
-    <onecall:Zipcode>33564</onecall:Zipcode>
-    <onecall:UserType>Agriculture</onecall:UserType>
-	<onecall:UserIndustry>Homeowner</onecall:UserIndustry>
-    <onecall:Phone>541-565-6565</onecall:Phone>
-    <onecall:Mobile xsi:nil="true"/>
-    <onecall:Email>martine.savary@pelicancorp.com</onecall:Email>
-    <onecall:Language>English</onecall:Language>
+    <onecall:ExcavatorID>60</onecall:ExcavatorID>
+    <onecall:Name>Caleb Woods</onecall:Name>
+    <onecall:Company>usan</onecall:Company>
+    <onecall:StreetAddress>101 North Carson Street</onecall:StreetAddress>
+    <onecall:CityTownPlace>carson city</onecall:CityTownPlace>
+    <onecall:State>NV</onecall:State>
+    <onecall:Zipcode>89701</onecall:Zipcode>
+    <onecall:UserType>Contractor</onecall:UserType>
+    <onecall:UserIndustry />
+    <onecall:Phone>503-310-5267</onecall:Phone>
+    <onecall:Mobile xsi:nil="true" />
+    <onecall:Email>woodscaleb@gmail.com</onecall:Email>
+    <onecall:Language>en</onecall:Language>
   </onecall:CustomerDetails>
   <onecall:LocationDetails>
-    <onecall:AddressLocation>1055 Fowler Ave</onecall:AddressLocation>
-    <onecall:CityTownPlace>Clovis</onecall:CityTownPlace>
-    <onecall:County>Fresno</onecall:County>
-    <onecall:State>CA</onecall:State>
-    <onecall:NearbyCrossStreet>Barstow ave</onecall:NearbyCrossStreet>
+    <onecall:AddressLocation>Alta Dr</onecall:AddressLocation>
+    <onecall:CityTownPlace>Las Vegas</onecall:CityTownPlace>
+    <onecall:County>Clark County</onecall:County>
+    <onecall:State>NV</onecall:State>
+    <onecall:Zipcode>89107</onecall:Zipcode>
+    <onecall:NearbyCrossStreet>Campbell Dr</onecall:NearbyCrossStreet>
     <onecall:StreetSidewalk>true</onecall:StreetSidewalk>
-    <onecall:SubdivisionLot xsi:nil="true"/>
-    <onecall:OnsiteContactName>Martine</onecall:OnsiteContactName>
-    <onecall:OnsiteContactPhone>4189484444</onecall:OnsiteContactPhone>
-    <onecall:Latitude>36.817805</onecall:Latitude>
-    <onecall:Longitude>-119.681675</onecall:Longitude>
-    <onecall:ExcavatorRemarks>test ticket</onecall:ExcavatorRemarks>
+    <onecall:SubdivisionLot xsi:nil="true" />
+    <onecall:OnsiteContactName>Caleb</onecall:OnsiteContactName>
+    <onecall:OnsiteContactPhone>1234567890</onecall:OnsiteContactPhone>
+    <onecall:Latitude>36.166308</onecall:Latitude>
+    <onecall:Longitude>-115.183508</onecall:Longitude>
+    <onecall:WKT>POLYGON((-115.18321655365433 36.16634291868409,-115.1832207591096 36.166365806544896,-115.18322772318625 36.16638825141054,-115.18323737881647 36.16641003712521,-115.18324963301126 36.16643095388117,-115.18326436775601 36.16645080023939,-115.18328144114706 36.1664693850695,-115.18330068875835 36.16648652939036,-115.18332192522483 36.16650206809379,-115.18334494602777 36.16651585153461,-115.18336952946419 36.16652774697166,-115.18339543878221 36.16653763984629,-115.18342242446089 36.16654543488548,-115.18345022661343 36.16655105701937,-115.18347857748986 36.16655445210422,-115.18350720405579 36.166555587443774,-115.18353583062172 36.16655445210422,-115.18356418149817 36.16655105701937,-115.1835919836507 36.16654543488548,-115.1836189693294 36.16653763984629,-115.18364487864741 36.16652774697166,-115.18366946208381 36.16651585153461,-115.18369248288676 36.16650206809379,-115.18371371935325 36.16648652939036,-115.18373296696453 36.1664693850695,-115.18375004035558 36.16645080023939,-115.18376477510033 36.16643095388117,-115.18377702929511 36.16641003712521,-115.18378668492535 36.16638825141054,-115.183793649002 36.166365806544896,-115.18379785445728 36.16634291868409,-115.18379926079028 36.166319808250456,-115.18379785445728 36.166296697810004,-115.183793649002 36.166273809929024,-115.18378668492535 36.166251365030604,-115.18377702929511 36.16622957927184,-115.18376477510033 36.16620866246215,-115.18375004035558 36.166188816042606,-115.18373296696453 36.16617023114598,-115.18371371935325 36.16615308675593,-115.18369248288676 36.1661375479833,-115.18366946208381 36.16612376447596,-115.18364487864741 36.166111868977595,-115.1836189693294 36.16610197604925,-115.1835919836507 36.16609418096594,-115.18356418149817 36.166088558799274,-115.18353583062172 36.16608516369428,-115.18350720405579 36.166084028347875,-115.18347857748986 36.16608516369428,-115.18345022661343 36.166088558799274,-115.18342242446089 36.16609418096594,-115.18339543878221 36.16610197604925,-115.18336952946419 36.166111868977595,-115.18334494602777 36.16612376447596,-115.18332192522483 36.1661375479833,-115.18330068875835 36.16615308675593,-115.18328144114706 36.16617023114598,-115.18326436775601 36.166188816042606,-115.18324963301126 36.16620866246215,-115.18323737881647 36.16622957927184,-115.18322772318625 36.166251365030604,-115.1832207591096 36.166273809929024,-115.18321655365433 36.166296697810004,-115.18321655365433 36.16634291868409))</onecall:WKT>
+    <onecall:ExcavatorRemarks>Entire Intersection</onecall:ExcavatorRemarks>
+    <onecall:TicketEditReason></onecall:TicketEditReason>
   </onecall:LocationDetails>
 </onecall:OneCallReferral>

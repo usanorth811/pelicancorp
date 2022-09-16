@@ -5,7 +5,6 @@ nav_order: 3
 has_children: true
 ---
 
-Note: Ticket examples on this page do not yet reflect the 2023 format changes
 {: .label .label-red}
 
 ## Ticket Examples

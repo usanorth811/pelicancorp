@@ -12,10 +12,15 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 ---
 
-Note: Ticket examples on this site do not yet reflect the 2023 format changes
-{: .label .label-red}
 
 <img src="https://usanorth811.org/images/MicrosoftTeams-image-4.png" alt="Cutover timeline" width="75%" > 
+
+## September 16
+
+New
+{: .label }
+- [Ticket examples have been updated and contain 2023 format changes](/pelicancorp/ticket_delivery/ticket_delivery_options.html)
+
 
 ## July 26
 

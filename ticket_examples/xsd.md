@@ -5,6 +5,9 @@ parent: Ticket Examples
 nav_order: 5
 ---
 
+Note: This XSD example does not yet reflect the 2023 format changes
+{: .label .label-red}
+
 ## XSD
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
