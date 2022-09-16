@@ -12,6 +12,10 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 ---
 
+## Test Tickets
+Test tickets with 2023 format changes are available for download [here](/pelicancorp/ticket_delivery/ticket_delivery_options.html). 
+
+Testing of full end to end delivery is also available. For more information on how to get started, please contact us at <a href="mailto:memberservices@usanorth811.org?subject=Test%20Tickets">memberservices@usanorth811.org</a>
 
 <img src="https://usanorth811.org/images/MicrosoftTeams-image-4.png" alt="Cutover timeline" width="75%" > 
 
