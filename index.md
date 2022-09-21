@@ -116,4 +116,3 @@ Most of the information on this site will not pertain to you, however we still e
 
 Not finding what you need, or having trouble with this page? Please contact <a href="mailto:memberservices@usanorth811.org?bcc=caleb.woods@usanorth811.org&subject=PelicanCorp%20Documentation%20Help">memberservices@usanorth811.org</a>
 
-<iframe src="https://member-voting.herokuapp.com/delivery_options?iframe=true" title="Delivery Options Quiz" width="700" height="500"></iframe>
