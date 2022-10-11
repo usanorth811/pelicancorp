@@ -14,7 +14,7 @@ Underground Service Alert of Northern CA & NV will cutover to the new Pelican Sy
 
 ## Review Your Membership
 
-Prior to the December 16th software cutover, all Underground Service Alert of Northern CA & NV members are required to review and confirm their membership information within the new system. Use the get started video below as a step by step guide on how to fully review your membership. 
+Prior to the December 16th software cutover, all Underground Service Alert of Northern CA & NV members will need to review and confirm their membership information within the new system. Use the get started video below as a step by step guide on how to setup your account and review your membership. 
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/755761705?h=581e700307&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Damage Prevention Portal - Setting up your account"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
