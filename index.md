@@ -39,12 +39,17 @@ New
 - Updated text on ticket confirmation screen (blue box) - OnceCallAccess
 - Changed "name of utility/authority" dropdown to remove word "Remarks" from Non-Member Utility option
 - Changed field label from Work Type to Type of Work in step 1
-- Changed step 3 to correctly populate Town/City/Place for area of interest locations
 
 Bug Fixes
 {: .label .label-yellow}
+- Changed step 3 to correctly populate Town/City/Place for area of interest locations
+- Updated state selector drop down in DPP to no longer conflict with Projection / Datum field
 - Return Trip ticket type removed from NV
 - Return Trip ticket type added to CA
+- Ticket status filter bug fixed - DamagePreventionPortal
+- Updated station code details to allow for phone numbers with extensions
+- Authority viewer updated to repair bug not allowing candidate layers to be seen and confirmed - DamagePreventionPortal
+- Bug fixed to allow polygons to be visible - DamagePreventionPortal
 
 ## September 16
 
