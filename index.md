@@ -48,7 +48,7 @@ Bug Fixes
 - Return Trip ticket type added to CA
 - Ticket status filter bug fixed - DamagePreventionPortal
 - Updated station code details to allow for phone numbers with extensions
-- Authority viewer updated to repair bug not allowing candidate layers to be seen and confirmed - DamagePreventionPortal
+- Authority viewer updated to repair bug not allowing candidate layers to be seen and confirmed in DamagePreventionPortal
 - Bug fixed to allow polygons to be visible in DamagePreventionPortal
 - Fixed bug that caused name of utility/authority for "Utility value" to not populate
 
