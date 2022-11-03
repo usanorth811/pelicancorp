@@ -36,7 +36,7 @@ New
 - Created public Positive Response ticket search website
 - OneCallAccess Ruler mapping tool updated to include measured distance in feet in addition to miles.
 - System updated to allow for new or unlisted addresses to be processed without verification.
-- Updated text on ticket confirmation screen (blue box) in OnceCallAccess
+- Updated text on ticket confirmation screen (blue box) in OneCallAccess
 - Changed "name of utility/authority" dropdown to remove word "Remarks" from Non-Member Utility option
 - Changed field label from Work Type to Type of Work in step 1
 
@@ -46,8 +46,8 @@ Bug Fixes
 - Updated state selector drop down in DPP to no longer conflict with Projection / Datum field
 - Return Trip ticket type removed from NV
 - Return Trip ticket type added to CA
-- Ticket status filter bug fixed - DamagePreventionPortal
-- Updated station code details to allow for phone numbers with extensions
+- Ticket status filter bug fixed in DamagePreventionPortal
+- Updated station code details to allow for phone numbers with extensions in DamagePreventionPortal
 - Authority viewer updated to repair bug not allowing candidate layers to be seen and confirmed in DamagePreventionPortal
 - Bug fixed to allow polygons to be visible in DamagePreventionPortal
 - Fixed bug that caused name of utility/authority for "Utility value" to not populate
