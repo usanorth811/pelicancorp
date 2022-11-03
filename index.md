@@ -36,7 +36,7 @@ New
 - Created public Positive Response ticket search website
 - OnceCallAccess Ruler mapping tool updated to include measured distance in feet in addition to miles.
 - System updated to allow for new or unlisted addresses to be processed without verification.
-- Updated text on ticket confirmation screen (blue box) - OnceCallAccess
+- Updated text on ticket confirmation screen (blue box) in OnceCallAccess
 - Changed "name of utility/authority" dropdown to remove word "Remarks" from Non-Member Utility option
 - Changed field label from Work Type to Type of Work in step 1
 
