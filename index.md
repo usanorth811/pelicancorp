@@ -27,6 +27,25 @@ Testing of full end to end delivery is also available. For more information on h
 
 <img src="https://usanorth811.org/images/MicrosoftTeams-image-4.png" alt="Cutover timeline" width="75%" > 
 
+# Release Notes
+
+## November 3rd
+
+New
+{: .label }
+- Created public Positive Response ticket search website
+- OnceCallAccess Ruler mapping tool updated to include measured distance in feet in addition to miles.
+- System updated to allow for new or unlisted addresses to be processed without verification.
+- Updated text on ticket confirmation screen (blue box) - OnceCallAccess
+- Changed "name of utility/authority" dropdown to remove word "Remarks" from Non-Member Utility option
+- Changed field label from Work Type to Type of Work in step 1
+- Changed step 3 to correctly populate Town/City/Place for area of interest locations
+
+Bug Fixes
+{: .label .label-yellow}
+- Return Trip ticket type removed from NV
+- Return Trip ticket type added to CA
+
 ## September 16
 
 New
