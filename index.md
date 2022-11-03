@@ -34,7 +34,7 @@ Testing of full end to end delivery is also available. For more information on h
 New
 {: .label }
 - Created public Positive Response ticket search website
-- OnceCallAccess Ruler mapping tool updated to include measured distance in feet in addition to miles.
+- OneCallAccess Ruler mapping tool updated to include measured distance in feet in addition to miles.
 - System updated to allow for new or unlisted addresses to be processed without verification.
 - Updated text on ticket confirmation screen (blue box) in OnceCallAccess
 - Changed "name of utility/authority" dropdown to remove word "Remarks" from Non-Member Utility option
